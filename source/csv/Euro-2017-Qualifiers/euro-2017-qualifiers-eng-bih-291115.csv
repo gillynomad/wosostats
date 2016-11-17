@@ -1,0 +1,1513 @@
+"event","time","poss.position","poss.team","poss.player","poss.action","poss.location","poss.play.destination","play.type","def.position","def.team","def.player","def.action","def.location","gk.ball.stop","gk.s.o.g.attempt","poss.player.disciplinary","poss.notes","def.player.disciplinary","def.notes"
+1,"1",NA,NA,NA,"kickoff",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,"1",NA,"ENG","Nobbs","passes.s.c","AM3C","AM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,"1",NA,"ENG","Davison","passes.f.c","AM3C","A3R",NA,NA,"BIH","Hadzic","pressured","DM3C",NA,NA,NA,NA,NA,NA
+4,"1",NA,"ENG","Clarke","passes.b.c","A3R","AM3R",NA,NA,"BIH","Radeljic","pressured","D3L",NA,NA,NA,NA,NA,NA
+5,"1",NA,"ENG","Turner","passes.f.c","AM3R","A3R",NA,NA,"BIH","Radeljic","pressured","DM3L",NA,NA,NA,NA,NA,NA
+5,"1",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Aleksic","clearances","d3l",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+6,"1",NA,"ENG","Turner","passes.b.c","A3R","A3R","throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,"1",NA,"ENG","Clarke","passes.f.c","A3R","A3R",NA,NA,"BIH","Alisa Spahic","pressured","D3L",NA,NA,NA,NA,NA,NA
+8,"1",NA,"ENG","Christiansen","lost.touch","A3R",NA,NA,NA,"BIH","Dijakovic","challenged","D3L",NA,NA,NA,NA,NA,NA
+9,"1",NA,"BIH","Alisa Spahic","recoveries","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,"1",NA,"BIH","Alisa Spahic","passes.f","d3l",NA,NA,NA,"ENG","Christiansen","challenged",NA,NA,NA,NA,NA,NA,NA
+11,"1",NA,"ENG","Houghton","recoveries","AM3R",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,"1",NA,"ENG","Houghton","passes.b.c","AM3R","DM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,"1",NA,"ENG","Stoney","movement","DM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,"1",NA,"ENG","Stoney","passes.f.c","AM3C","AM3L",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,"1",NA,"ENG","Stokes","passes.b.c","AM3L","AM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,"1",NA,"ENG","Stoney","passes.s.c","AM3C","AM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,"1",NA,"ENG","Houghton","movement","AM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,"1",NA,"ENG","Houghton","passes.f","AM3R",NA,"launch",NA,"BIH","Aleksic","blocks","D18",NA,NA,NA,NA,NA,NA
+19,"1",NA,"ENG","Christiansen","aerial.lost","A3C",NA,NA,NA,"BIH","Hadzic","aerial.lost","D3C",NA,NA,NA,NA,NA,NA
+20,"1",NA,"BIH","Hadzic","recoveries","D3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,"1",NA,"BIH","Hadzic","clearances","D3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,"1",NA,"BIH","Alisa Spahic","recoveries","D3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,"1",NA,"BIH","Alisa Spahic","dispossessed","D3C",NA,NA,NA,"ENG","Houghton","tackles.ball","A3C",NA,NA,NA,NA,NA,NA
+24,"1",NA,"ENG","Christiansen","passes.f","A3C",NA,NA,NA,"BIH","M Hasanbegovic","blocks","D3C",NA,NA,NA,NA,NA,NA
+25,"1",NA,"BIH","Amira Spahic","recoveries","D3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,"1",NA,"BIH","Amira Spahic","clearances","D3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,"1",NA,"ENG","Stokes","recoveries","AM3L",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,"1",NA,"ENG","Stokes","movement","DM3L",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,"2",NA,"ENG","Stokes","passes.f.c","DM3L","DM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,"2",NA,"ENG","Bassett","passes.f.c","DM3C","AM3L",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,"2",NA,"ENG","Davison","passes.b.c","AM3L","AM3C",NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+32,"2",NA,"ENG","Bassett","passes.f.c","AM3C","AM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,"2",NA,"ENG","Nobbs","passes.b.c","AM3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,"2",NA,"ENG","Houghton","passes.f.c","am3r","AM3R","launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,"2",NA,"ENG","Clarke","dispossessed","AM3R",NA,NA,NA,"BIH","Kulis","tackles.ball","dm3l",NA,NA,NA,NA,NA,NA
+36,"2",NA,"ENG","Houghton","recoveries","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,"2",NA,"ENG","Houghton","passes.f.c","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,"2",NA,"ENG","Bassett","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,"2",NA,"ENG","Stokes","passes.s.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,"2",NA,"ENG","Christiansen","passes.b.c","am3l",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+41,"2",NA,"ENG","Stoney","passes.f","am3c",NA,NA,NA,"BIH","M Hasanbegovic","blocks","d3r",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+42,"2",NA,"ENG","Stokes","passes.f.c","a3l",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,"2",NA,"ENG","Aluko","passes.f.c","a18",NA,"flick.on",NA,"BIH","M Hasanbegovic","challenged",NA,NA,NA,NA,NA,NA,NA
+44,"3",NA,"ENG","Christiansen","dispossessed","a3l",NA,NA,NA,"BIH","Dijakovic","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+45,"3",NA,"ENG","Christiansen","passes.s","a3l",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,"3",NA,"ENG","Turner","aerial.lost","a18",NA,"corner.crosses",NA,"BIH","M Hasanbegovic","aerial.won","d6",NA,NA,NA,NA,NA,NA
+47,"3",NA,"BIH","Alisa Spahic","recoveries","d6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,"3",NA,"BIH","Alisa Spahic","clearances","d6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,"3",NA,"ENG","Nobbs","shots.missed","am3c",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+49,"3",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.shot.miss","d6",NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+50,"4",NA,"BIH","Hodzic","passes.f.c","d6",NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,"4",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,"4",NA,"BIH","Hadzic","aerial.won","dm3l",NA,NA,NA,"ENG","Nobbs","aerial.lost","am3r",NA,NA,"fouls.won",NA,"fouls.conceded",NA
+52,"4",NA,"BIH","Kulis","passes.s","dm3l",NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,"4",NA,NA,NA,NA,NA,NA,"deep.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,"4",NA,"ENG","Stokes","recoveries","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,"4",NA,"ENG","Stokes","passes.f.c","dm3l",NA,"launch",NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+55,"4",NA,"ENG","Nobbs","take.on.lost","am3l",NA,NA,NA,"BIH","Alisa Spahic","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+56,"4",NA,"ENG","Davison","passes.b.c","am3l",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,"4",NA,"ENG","Bassett","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,"4",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,"4",NA,"ENG","Bassett","passes.f.c","am3c","A3C",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,"5",NA,"ENG","Nobbs","passes.f","A3C",NA,NA,NA,"BIH","Dijakovic","interceptions","d3r",NA,NA,NA,NA,NA,NA
+61,"5",NA,"BIH","Dijakovic","passes.f","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,"5",NA,"ENG","Nobbs","recoveries","a3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,"5",NA,"ENG","Nobbs","passes.f.c","a3l",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+64,"5",NA,"ENG","Davison","passes.f.c","a3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+65,"5",NA,"ENG","Stokes","take.on.won","a3l",NA,NA,NA,"BIH","Dijakovic","dribbled.out.run",NA,NA,NA,NA,NA,NA,NA
+66,"5",NA,"ENG","Stokes","lost.touch","a3l",NA,NA,NA,"BIH","Amira Spahic","clearances","d3r",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+67,"5",NA,"ENG","Stokes","passes.b.c","a3l",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,"5",NA,"ENG","Christiansen","passes.f.c","a3l",NA,"lay.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,"5",NA,"ENG","Stokes","passes.b.c","a3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+70,"5",NA,"ENG","Christiansen","passes.f","a3l",NA,"corner.crosses",NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+71,"5",NA,"ENG","Nobbs","aerial.lost","a18",NA,NA,NA,"BIH","Amira Spahic","aerial.won","d18",NA,NA,NA,NA,NA,NA
+72,"5",NA,"BIH","Radeljic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,"5",NA,"BIH","Radeljic","clearances","d3c",NA,NA,NA,"ENG","Turner","challenged",NA,NA,NA,NA,NA,NA,NA
+74,"5",NA,"BIH","Hadzic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75,"5",NA,"BIH","Hadzic","dispossessed","d3c",NA,NA,NA,"ENG","Turner","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+76,"6",NA,"BIH","M Hasanbegovic","passes.f","d3c",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,"6",NA,NA,NA,NA,NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,"6",NA,"ENG","Houghton","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,"6",NA,"ENG","Houghton","passes.f","dm3c",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,"6",NA,"BIH","Aleksic","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,"6",NA,"BIH","Aleksic","passes.f.c","dm3c",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,"6",NA,"BIH","Seslija","passes.b","am3c",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82,"6",NA,"ENG","Nobbs","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,"6",NA,"ENG","Nobbs","passes.b.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+84,"6",NA,"ENG","Houghton","passes.s.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,"6",NA,"ENG","Stoney","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,"6",NA,"ENG","Davison","take.on.won","am3c",NA,NA,NA,"BIH","Amira Spahic","dribbled.out.run",NA,NA,NA,NA,NA,NA,NA
+87,"6",NA,"ENG","Davison","passes.s.c","a3c",NA,NA,NA,"BIH","Nikolic","challenged",NA,NA,NA,NA,NA,NA,NA
+88,"6",NA,"ENG","Christiansen","passes.f","a3c",NA,NA,NA,"BIH","M Hasanbegovic","clearances","d3c",NA,NA,NA,NA,NA,NA
+89,"6",NA,"ENG","Houghton","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+90,"6",NA,"ENG","Houghton","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,"6",NA,"ENG","Stoney","passes.f","am3c",NA,NA,NA,"BIH","M Hasanbegovic","blocks","d3r",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+92,"7",NA,"ENG","Christiansen","passes.s","a3l",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,"7",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,"7",NA,"ENG","Aluko","aerial.lost","a18",NA,NA,NA,"BIH","Kulis","aerial.lost","d18",NA,NA,NA,NA,NA,NA
+94,"7",NA,"BIH","Seslija","recoveries","a6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,"7",NA,"BIH","Seslija","clearances","a6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+96,"7",NA,"ENG","Stoney","recoveries","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+97,"7",NA,"ENG","Stoney","passes.s","a3r",NA,"corner.crosses",NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+97,"7",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.loose.balls.won","d6",NA,NA,NA,NA,NA,NA
+98,"7",NA,"BIH","Hodzic","passes.f","d18",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,"7",NA,NA,NA,NA,NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+99,"8",NA,"ENG","Nobbs","aerial.won","am3r",NA,NA,NA,"BIH","Hadzic","aerial.lost","dm3r",NA,NA,NA,NA,NA,NA
+100,"8",NA,"BIH","Kulis","recoveries","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+101,"8",NA,"BIH","Kulis","clearances","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+102,"8",NA,"BIH","Radeljic","passes.f","dm3l",NA,NA,NA,"ENG","Turner","pressured",NA,NA,NA,NA,NA,NA,NA
+103,"8",NA,"ENG","Houghton","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+104,"8",NA,"ENG","Houghton","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+105,"8",NA,"ENG","Stokes","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+106,"8",NA,"ENG","Bassett","passes.f.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+106,"8",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Seslija","blocks","dm3c",NA,NA,NA,NA,NA,NA
+107,"8",NA,"ENG","Aluko","recoveries","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+108,"8",NA,"ENG","Aluko","lost.touch","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+109,"8",NA,"BIH","Hadzic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+110,"8",NA,"BIH","Hadzic","clearances","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+111,"8",NA,"ENG","Stokes","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+112,"8",NA,"ENG","Stokes","passes.f.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+113,"8",NA,"ENG","Davison","passes.f","a3l",NA,"launch",NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+113,"8",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+114,"8",NA,"BIH","Aleksic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+115,"8",NA,"BIH","Aleksic","clearances","d18",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+116,"8",NA,"BIH","Dijakovic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,"8",NA,"BIH","Dijakovic","clearances","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+118,"8",NA,"BIH","Seslija","recoveries","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+119,"8",NA,"BIH","Seslija","clearances","d3r",NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+120,"8",NA,"ENG","Stoney","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+121,"8",NA,"ENG","Stoney","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+122,"8",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+123,"8",NA,"ENG","Christiansen","lost.touch","a3c",NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+124,"8",NA,"BIH","Alisa Spahic","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+125,"8",NA,"BIH","Alisa Spahic","dispossessed","dm3c",NA,NA,NA,"ENG","Bassett","challenged",NA,NA,NA,NA,NA,NA,NA
+125,"8",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Christiansen","pressured",NA,NA,NA,NA,NA,NA,NA
+126,"8",NA,"ENG","Christiansen","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+127,"8",NA,"ENG","Christiansen","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+128,"8",NA,"ENG","Stoney","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+129,"8",NA,"ENG","Nobbs","movement","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+130,"8",NA,"ENG","Nobbs","dispossessed","am3r",NA,NA,NA,"BIH","Hadzic","dispossessed",NA,NA,NA,NA,NA,NA,NA
+131,"8",NA,"BIH","Alisa Spahic","passes.f","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+132,"8",NA,"ENG","Stoney","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+133,"9",NA,"ENG","Stoney","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+134,"9",NA,"ENG","Stokes","passes.f.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+135,"9",NA,"ENG","Davison","passes.f.c","am3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+136,"9",NA,"ENG","Christiansen","passes.f","a3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+137,"9",NA,"ENG","Clarke","offside.calls","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+138,"9",NA,"BIH","M Hasanbegovic","passes.f","a3l",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+138,"9",NA,NA,NA,NA,NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+139,"9",NA,"ENG","Turner","passes.b.c","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+140,"9",NA,"ENG","Houghton","passes.f.c","dm3r",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+140,"9",NA,NA,NA,NA,NA,NA,"switch",NA,"BIH","Seslija","blocks","dm3c",NA,NA,NA,NA,NA,NA
+141,"9",NA,"ENG","Houghton","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+142,"9",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+143,"9",NA,"ENG","Bassett","passes.s.c","am3c",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+144,"9",NA,"ENG","Stokes","passes.s.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+145,"10",NA,"ENG","Bassett","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,"10",NA,"ENG","Nobbs","passes.f.c","am3c",NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+147,"10",NA,"ENG","Aluko","passes.s.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+148,"10",NA,"ENG","Davison","take.on.won","a3l",NA,NA,NA,"BIH","Dijakovic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+149,"10",NA,"ENG","Davison","take.on.lost","a3l",NA,NA,NA,"BIH","M Hasanbegovic","challenged",NA,NA,NA,NA,NA,NA,NA
+150,"10",NA,"BIH","Amira Spahic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+151,"10",NA,"BIH","Amira Spahic","clearances","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+152,"10",NA,"ENG","Houghton","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+153,"10",NA,"ENG","Houghton","passes.f.c","am3c",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+154,"10",NA,"ENG","Davison","passes.f.c","a3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+155,"10",NA,"ENG","Stokes","passes.b.c","a3l",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+156,"10",NA,"ENG","Davison","passes.b.c","a3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+157,"10",NA,"ENG","Stoney","passes.f.c","a3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+158,"10",NA,"ENG","Christiansen","passes.b.c","a3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+159,"10",NA,"ENG","Bassett","passes.f.c",NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+160,"10",NA,"ENG","Nobbs","shots.stopped.by.gk","a3c",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+160,"10",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.s.o.g.stop","d6","deflected.to.danger","reaching",NA,NA,NA,NA
+161,"10",NA,"ENG","Christiansen","aerial.lost","a6",NA,NA,NA,"BIH","Hodzic","gk.high.balls.won","d6","punched.to.danger",NA,NA,NA,NA,NA
+162,"10",NA,"ENG","Clarke","recoveries","a6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+163,"10",NA,"ENG","Clarke","shots.stopped.by.def","d6",NA,NA,NA,"BIH","Aleksic","blocks",NA,NA,NA,NA,NA,NA,NA
+163,"10",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.s.o.g.def.stop","d6",NA,NA,NA,NA,NA,NA
+164,"10",NA,"BIH","Nikolic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+165,"10",NA,"BIH","Nikolic","clearances","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+166,"10",NA,"ENG","Bardsley","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+167,"10",NA,"ENG","Bardsley","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+168,"10",NA,"ENG","Houghton","movement","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+169,"11",NA,"ENG","Houghton","passes.f.c","am3r",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+170,"11",NA,"ENG","Nobbs","passes.s","a3r",NA,NA,NA,"BIH","Hadzic","blocks","d3l",NA,NA,NA,NA,NA,NA
+171,"11",NA,"BIH","Alisa Spahic","recoveries","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+172,"11",NA,"BIH","Alisa Spahic","passes.f.c","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,"11",NA,"BIH","Hadzic","dispossessed","dm3l",NA,NA,NA,"ENG","Nobbs","tackles.ball","am3r",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+174,"11",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+175,"11",NA,"ENG","Stokes","passes.f.c","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+176,"11",NA,"ENG","Davison","movement","am3c",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+177,"11",NA,"ENG","Davison","take.on.won","a3c",NA,NA,NA,"BIH","Nikolic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+178,"11",NA,"ENG","Davison","lost.touch","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+179,"11",NA,"ENG","Davison","dispossessed","a3c",NA,NA,NA,"BIH","Aleksic","challenged",NA,NA,NA,NA,NA,NA,NA
+180,"11",NA,"BIH","Radeljic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+181,"11",NA,"BIH","Radeljic","clearances","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+182,"11",NA,"ENG","Turner","passes.s.c","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+183,"11",NA,"ENG","Nobbs","passes.b.c","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+184,"11",NA,"ENG","Houghton","passes.s.c","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+185,"12",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+186,"12",NA,"ENG","Stokes","passes.f.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+187,"12",NA,"ENG","Davison","passes.b.c","a3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+188,"12",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+189,"12",NA,"ENG","Nobbs","passes.f.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+190,"12",NA,"ENG","Christiansen","passes.f","a3c",NA,NA,NA,"BIH","Dijakovic","blocks","a3r",NA,NA,NA,NA,NA,NA
+191,"12",NA,"BIH","Seslija","recoveries","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+192,"12",NA,"BIH","Seslija","passes.f","am3r",NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+193,"12",NA,"ENG","Bassett","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+194,"12",NA,"ENG","Bassett","passes.b.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+195,"12",NA,"ENG","Stoney","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+196,"12",NA,"ENG","Nobbs","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+197,"12",NA,"ENG","Houghton","passes.s.c","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+198,"12",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+199,"12",NA,"ENG","Bassett","passes.b.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+200,"12",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+201,"12",NA,"ENG","Clarke","take.on.won","a3c",NA,NA,NA,"BIH","Kulis","dribbled.turned",NA,NA,NA,NA,NA,NA,NA
+202,"12",NA,"ENG","Clarke","shots.stopped.by.gk","a3c",NA,NA,NA,"BIH","Hodzic","gk.s.o.g.stop","d6","caught","standing",NA,NA,NA,NA
+202,"12",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+203,"13",NA,"BIH","Hodzic","passes.f.c","d18",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+203,"13",NA,NA,NA,NA,NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+204,"13",NA,"BIH","Seslija","passes.f","dm3r",NA,"headed",NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+205,"13",NA,"ENG","Stoney","recoveries","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+206,"13",NA,"ENG","Stoney","passes.b.c","dm3l",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+206,"13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+207,"13",NA,"ENG","Bardsley","passes.f.c","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+208,"13",NA,"ENG","Houghton","movement","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+209,"13",NA,"ENG","Houghton","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+210,"13",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+211,"13",NA,"ENG","Bassett","passes.f","am3c",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+212,"13",NA,"BIH","Dijakovic","passes.f.c","d3r",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+213,"13",NA,"BIH","Alisa Spahic","dispossessed","dm3r",NA,NA,NA,"ENG","Stokes","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+214,"14",NA,"BIH","M Hasanbegovic","passes.f","dm3r",NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+214,"14",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+215,"14",NA,"ENG","Stoney","recoveries","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+216,"14",NA,"ENG","Stoney","passes.f.c","dm3l",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+217,"14",NA,"ENG","Stokes","passes.f","dm3l",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+217,"14",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Dijakovic","interceptions","dm3r",NA,NA,NA,NA,NA,NA
+218,"14",NA,"BIH","Dijakovic","passes.f","dm3r",NA,NA,NA,"ENG","Davison","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+218,"14",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Christiansen","pressured",NA,NA,NA,NA,NA,NA,NA
+219,"14",NA,"ENG","Stokes","passes.b.c","dm3l",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+220,"14",NA,"ENG","Stoney","passes.f.c","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+221,"14",NA,"ENG","Houghton","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+222,"14",NA,"ENG","Houghton","passes.f","am3c",NA,NA,NA,"BIH","Seslija","blocks","d3l",NA,NA,NA,NA,NA,NA
+223,"14",NA,"ENG","Houghton","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+224,"14",NA,"ENG","Houghton","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+225,"14",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+226,"14",NA,"ENG","Bassett","passes.s.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+227,"14",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+228,"15",NA,"ENG","Nobbs","passes.f.c","a3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+229,"15",NA,"ENG","Clarke","passes.s","a3r",NA,"corner.crosses",NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+230,"15",NA,"BIH","Hodzic","passes.f","d6",NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+230,"15",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+231,"15",NA,"BIH","Kulis","aerial.lost","d3l",NA,NA,NA,"ENG","Clarke","aerial.won","a3r",NA,NA,NA,NA,NA,NA
+232,"15",NA,"BIH","Aleksic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+233,"15",NA,"BIH","Aleksic","lost.touch","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+234,"15",NA,"ENG","Christiansen","recoveries","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+235,"15",NA,"ENG","Christiansen","passes.s.c","a3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+236,"15",NA,"ENG","Bassett","dispossessed","a3c",NA,NA,NA,"BIH","Seslija","challenged",NA,NA,NA,NA,NA,NA,NA
+237,"15",NA,"ENG","Bassett","recoveries","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+238,"15",NA,"ENG","Bassett","passes.f.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+239,"15",NA,"ENG","Davison","passes.b.c","am3l",NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+240,"16",NA,"ENG","Christiansen","passes.f.c","am3l",NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+241,"16",NA,"ENG","Bassett","passes.b.c","a3c",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+242,"16",NA,"ENG","Nobbs","passes.f.c","a3c",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+242,"16",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Radeljic","clearances","d3r",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+243,"16",NA,"ENG","Turner","passes.b.c","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+244,"16",NA,"ENG","Stoney","passes.f.c","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+245,"16",NA,"ENG","Nobbs","movement","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+246,"16",NA,"ENG","Nobbs","passes.b.c","am3c",NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+247,"16",NA,"ENG","Bassett","passes.s.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+248,"16",NA,"ENG","Stoney","passes.f.c","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+249,"16",NA,"ENG","Aluko","passes.s.c","a3c",NA,NA,NA,"BIH","Amira Spahic","challenged",NA,NA,NA,NA,NA,NA,NA
+250,"16",NA,"ENG","Turner","passes.f.c","a3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+250,"16",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Amira Spahic","clearances","d18",NA,NA,NA,NA,NA,NA
+251,"17",NA,"ENG","Christiansen","passes.s","a3r",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+251,"17",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+251,"17",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.high.balls.won","d18","caught",NA,NA,NA,NA,NA
+252,"18",NA,"BIH","Hodzic","passes.f","d18",NA,"gk.drop.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+252,"18",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+253,"18",NA,"ENG","Stoney","recoveries","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+254,"18",NA,"ENG","Stoney","passes.f.c","dm3l",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+255,"18",NA,"ENG","Stokes","aerial.won",NA,NA,NA,NA,"BIH","Dijakovic","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+256,"18",NA,"BIH","Nikolic","recoveries","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+257,"18",NA,"BIH","Nikolic","passes.s.c","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+258,"18",NA,"BIH","Dijakovic","passes.f","dm3r",NA,NA,NA,"ENG","Aluko","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+259,"18",NA,"ENG","Stokes","passes.b.c","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+260,"18",NA,"ENG","Stoney","passes.f.c","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+261,"18",NA,"ENG","Bassett","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,"18",NA,"ENG","Bassett","passes.s.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+263,"18",NA,"ENG","Houghton","passes.f.c","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+264,"18",NA,"ENG","Davison","take.on.won","am3r",NA,NA,NA,"BIH","Hadzic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+265,"18",NA,"ENG","Davison","dispossessed","a3r",NA,NA,NA,"BIH","Kulis","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+266,"19",NA,"ENG","Christiansen","passes.f","a3r",NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+266,"19",NA,NA,NA,NA,NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+267,"19",NA,"BIH","Dijakovic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+268,"19",NA,"BIH","Dijakovic","dispossessed","d18",NA,NA,NA,"ENG","Bassett","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+269,"19",NA,"ENG","Houghton","recoveries","a18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+270,"19",NA,"ENG","Houghton","lost.touch","a18",NA,NA,NA,"BIH","M Hasanbegovic","challenged",NA,NA,NA,NA,NA,NA,NA
+271,"19",NA,"BIH","Dijakovic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+272,"19",NA,"BIH","Dijakovic","clearances","d18",NA,NA,NA,"ENG","Stoney","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+273,"19",NA,"ENG","Stokes","passes.b.c","a3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+274,"19",NA,"ENG","Stoney","passes.f.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+275,"19",NA,"ENG","Turner","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+276,"19",NA,"ENG","Nobbs","passes.b.c","a3c",NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+277,"19",NA,"ENG","Davison","take.on.won","a3r",NA,NA,NA,"BIH","Hadzic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+278,"19",NA,"ENG","Davison","take.on.won","a3r",NA,NA,NA,"BIH","Kulis","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+279,"20",NA,"ENG","Davison","passes.s.c","a3r",NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+280,"20",NA,"ENG","Nobbs","passes.s","a3r",NA,"corner.crosses",NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+280,"20",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.high.balls.won","d18","caught",NA,NA,NA,NA,NA
+281,"20",NA,"BIH","Hodzic","passes.f","d18",NA,"gk.drop.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+282,"20",NA,"ENG","Bassett","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+283,"20",NA,"ENG","Bassett","dispossessed","am3l",NA,NA,NA,"BIH","Seslija","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+284,"20",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+285,"20",NA,"ENG","Stoney","passes.s.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+286,"20",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+287,"20",NA,"ENG","Christiansen","passes.f.c","a3c",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+288,"20",NA,"ENG","Nobbs","passes.f.c","a18",NA,NA,NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+289,"20",NA,"ENG","Aluko","shots.missed","a6",NA,NA,NA,"BIH","Hodzic","gk.shot.miss","d6",NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+290,"20",NA,"BIH","Hodzic","passes.f.c","d6",NA,"goal.kick",NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+290,"20",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+291,"21",NA,"BIH","Hadzic","passes.f","dm3c",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+292,"21",NA,"ENG","Houghton","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+293,"21",NA,"ENG","Houghton","passes.b.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+294,"21",NA,"ENG","Stokes","passes.b.c","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+295,"21",NA,"ENG","Stoney","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+296,"21",NA,"ENG","Houghton","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+297,"21",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+298,"21",NA,"ENG","Davison","passes.f.c","a3c",NA,NA,NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+299,"21",NA,"ENG","Christiansen","passes.f.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+300,"21",NA,"ENG","Aluko","passes.f","a3c",NA,NA,NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+301,"21",NA,"BIH","Radeljic","recoveries","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+302,"21",NA,"BIH","Radeljic","passes.f","d3l",NA,NA,NA,"ENG","Turner","blocks","a3r",NA,NA,NA,NA,NA,NA
+303,"21",NA,"BIH","Hadzic","recoveries","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+304,"21",NA,"BIH","Hadzic","passes.f","dm3l",NA,NA,NA,"ENG","Bassett","challenged",NA,NA,NA,NA,NA,NA,NA
+304,"21",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Christiansen","interceptions","am3r",NA,NA,NA,NA,NA,NA
+305,"21",NA,"ENG","Christiansen","passes.b.c","am3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+306,"21",NA,"ENG","Nobbs","passes.b.c","am3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+307,"21",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+308,"22",NA,"ENG","Stokes","movement","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+309,"22",NA,"ENG","Stokes","take.on.won","a3l",NA,NA,NA,"BIH","Seslija","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+310,"22",NA,"ENG","Stokes","passes.s.c","a3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+311,"22",NA,"ENG","Clarke","dispossessed","a18",NA,NA,NA,"BIH","Nikolic","dispossessed",NA,NA,NA,NA,NA,NA,NA
+312,"22",NA,"BIH","Nikolic","movement","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+313,"22",NA,"BIH","Nikolic","passes.f","d3r",NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+314,"22",NA,"ENG","Bardsley","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+315,"22",NA,"ENG","Bardsley","passes.f.c","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+316,"22",NA,"ENG","Houghton","passes.f","am3c",NA,"launch",NA,"BIH","Hodzic","gk.high.balls.won","d18","caught",NA,NA,NA,NA,NA
+317,"22",NA,"BIH","Hodzic","passes.f.c","d18",NA,"gk.drop.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+317,"22",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+318,"22",NA,"BIH","Alisa Spahic","aerial.won","dm3c",NA,NA,NA,"ENG","Christiansen","aerial.lost","am3c",NA,NA,NA,NA,NA,NA
+319,"22",NA,"ENG","Stokes","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+320,"22",NA,"ENG","Stokes","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+321,"22",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+322,"22",NA,"ENG","Nobbs","passes.f","am3r",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+323,"23",NA,"BIH","Hodzic","passes.f","d6",NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+323,"23",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+324,"23",NA,"ENG","Nobbs","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+325,"23",NA,"ENG","Nobbs","passes.f","am3c",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+326,"23",NA,"ENG","Davison","aerial.lost","a3l",NA,NA,NA,"BIH","Kulis","aerial.lost","d3r",NA,NA,"fouls.conceded",NA,"fouls.won",NA
+327,"23",NA,"BIH","Amira Spahic","passes.f","d3r",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+327,"23",NA,NA,NA,NA,NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+328,"23",NA,"ENG","Houghton","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+329,"23",NA,"ENG","Houghton","passes.f.c","d3c",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+330,"23",NA,"ENG","Nobbs","passes.b.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+331,"24",NA,"ENG","Turner","passes.b.c","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+332,"24",NA,"ENG","Houghton","passes.s.c","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+333,"24",NA,"ENG","Stoney","movement","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+334,"24",NA,"ENG","Stoney","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+335,"24",NA,"ENG","Stokes","passes.f","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+336,"24",NA,"BIH","Amira Spahic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+337,"24",NA,"BIH","Amira Spahic","clearances","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+338,"24",NA,"ENG","Stokes","passes.f.c","a3l",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+339,"24",NA,"ENG","Aluko","passes.f.c","a3l",NA,"flick.on",NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+339,"24",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Dijakovic","clearances","d3r",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+340,"24",NA,"ENG","Stokes","passes.b.c","a3l",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+341,"24",NA,"ENG","Stoney","passes.s.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+342,"24",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+343,"24",NA,"ENG","Bassett","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+344,"24",NA,"ENG","Aluko","movement","a3c",NA,NA,NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+345,"24",NA,"ENG","Aluko","passes.s.c","a3l",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+346,"24",NA,"ENG","Bassett","passes.f","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+347,"24",NA,"BIH","Kulis","recoveries","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+348,"24",NA,"BIH","Kulis","movement","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+349,"24",NA,"BIH","Kulis","movement","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+350,"24",NA,"BIH","Kulis","movement","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+351,"24",NA,"BIH","Kulis","take.on.won","am3l",NA,NA,NA,"ENG","Turner","dribbled.turned",NA,NA,NA,NA,NA,NA,NA
+352,"25",NA,"BIH","Kulis","movement","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+353,"25",NA,"BIH","Kulis","dispossessed","a3l",NA,NA,NA,"ENG","Bassett","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+354,"25",NA,"BIH","Kulis","passes.s.c","a3l",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+355,"25",NA,"BIH","Nikolic","passes.b.c","a3k",NA,NA,NA,"ENG","Turner","challenged",NA,NA,NA,NA,NA,NA,NA
+356,"25",NA,"BIH","Radeljic","shots.stopped.by.gk","a3l",NA,NA,NA,"ENG","Bardsley","gk.s.o.g.stop","d18","collected","stooping",NA,NA,NA,NA
+357,"25",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+358,"25",NA,"ENG","Stokes","passes.f.c","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+359,"25",NA,"ENG","Bassett","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+360,"25",NA,"ENG","Bassett","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+361,"25",NA,"ENG","Nobbs","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+362,"25",NA,"ENG","Davison","passes.b.c","a3r",NA,NA,NA,"BIH","Kulis","challenged",NA,NA,NA,NA,NA,NA,NA
+363,"25",NA,"ENG","Houghton","passes.f.c","am3c",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+363,"25",NA,NA,NA,NA,NA,NA,"switch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+364,"25",NA,"ENG","Clarke","lost.touch","a3l",NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,NA,NA,NA,NA
+365,"25",NA,"ENG","Stokes","recoveries","a3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+366,"25",NA,"ENG","Stokes","passes.b.c","a3l",NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,NA,NA,NA,NA
+367,"26",NA,"ENG","Stoney","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+368,"26",NA,"ENG","Stoney","passes.f.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+369,"26",NA,"ENG","Christiansen","passes.b.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+370,"26",NA,"ENG","Houghton","passes.s.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+371,"26",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+372,"26",NA,"ENG","Aluko","lost.touch","a3c",NA,NA,NA,"BIH","M Hasanbegovic","challenged",NA,NA,NA,NA,NA,NA,NA
+373,"26",NA,"BIH","Seslija","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+374,"26",NA,"BIH","Seslija","passes.f.c","d3c",NA,NA,NA,"ENG","Aluko","pressured",NA,NA,NA,NA,NA,NA,NA
+375,"26",NA,"BIH","Alisa Spahic","passes.b.c","d3c",NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+376,"26",NA,"BIH","Seslija","passes.f","d3c",NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+377,"26",NA,"ENG","Nobbs","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+378,"26",NA,"ENG","Nobbs","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+379,"26",NA,"ENG","Houghton","passes.s.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+380,"26",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+381,"26",NA,"ENG","Clarke","take.on.lost","a3l",NA,NA,NA,"BIH","Dijakovic","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+382,"27",NA,"ENG","Christiansen","passes.s","a3l",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+382,"27",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+383,"27",NA,"ENG","Aluko","aerial.lost","a18",NA,NA,NA,"BIH","Hodzic","gk.high.balls.won","d18","punched.to.safety",NA,NA,"out.of.bounds.keep.poss",NA,NA
+384,"27",NA,"ENG","Christiansen","passes.s.c","a3r",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+385,"27",NA,"ENG","Davison","passes.b.c","a18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+386,"27",NA,"ENG","Christiansen","passes.b.c","a3r",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+387,"27",NA,"ENG","Nobbs","passes.f.c","a3r",NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+388,"28",NA,"ENG","Davison","passes.f.c","a3r",NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+389,"28",NA,"ENG","Christiansen","passes.s","a3r",NA,NA,NA,"BIH","Amira Spahic","blocks",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+390,"28",NA,"ENG","Christiansen","passes.s.c","a3r",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+390,"28",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+391,"28",NA,"ENG","Houghton","passes.f.c","a18",NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+391,"28",NA,NA,NA,NA,NA,NA,"flick.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+392,"28",NA,"ENG","Aluko","shots.missed","a18",NA,NA,NA,"BIH","Hodzic","gk.shot.miss","d6",NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+393,"29",NA,"BIH","Hodzic","passes.f","d6",NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+393,"29",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+394,"29",NA,"ENG","Houghton","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+395,"29",NA,"ENG","Houghton","passes.f.c","am3c",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+395,"29",NA,NA,NA,NA,NA,NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+396,"29",NA,"ENG","Clarke","passes.b","a18",NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,NA,NA,NA,NA
+397,"29",NA,"BIH","Nikolic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+398,"29",NA,"BIH","Nikolic","clearances","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+399,"29",NA,"ENG","Christiansen","passes.s.c","a3l",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+400,"29",NA,"ENG","Davison","passes.b.c","a18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+401,"29",NA,"ENG","Christiansen","passes.f","a3r",NA,"corner.crosses",NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+402,"30",NA,"ENG","Houghton","aerial.lost","a18",NA,NA,NA,"BIH","Hodzic","gk.high.balls.won","d18",NA,NA,NA,NA,NA,NA
+403,"30",NA,NA,NA,"stoppage.in.play",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fouls.conceded",NA,"fouls.won",NA
+404,"32",NA,"BIH","Hodzic","passes.f.c","d6",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+404,"32",NA,NA,NA,NA,NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+405,"32",NA,"BIH","Hadzic","aerial.won","dm3r",NA,NA,NA,"ENG","Houghton","aerial.lost","am3r",NA,NA,NA,NA,NA,NA
+406,"32",NA,"ENG","Nobbs","recoveries","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+407,"32",NA,"ENG","Nobbs","dispossessed","am3r",NA,NA,NA,"BIH","Alisa Spahic","challenged","dm3l",NA,NA,NA,NA,NA,NA
+407,"32",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Kulis","dispossessed","dm3l",NA,NA,NA,NA,NA,NA
+408,"32",NA,"BIH","Kulis","lost.touch","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+409,"32",NA,"ENG","Bassett","recoveries","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+410,"32",NA,"ENG","Bassett","passes.f.c","am3r",NA,NA,NA,"BIH","Kulis","challenged",NA,NA,NA,NA,NA,NA,NA
+411,"32",NA,"ENG","Christiansen","passes.b.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+412,"32",NA,"ENG","Houghton","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+413,"32",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+414,"32",NA,"ENG","Stokes","passes.f.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+415,"32",NA,"ENG","Aluko","lost.touch","a3l",NA,NA,NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+416,"33",NA,"BIH","Hodzic","passes.f","d6",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+416,"33",NA,NA,NA,NA,NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+417,"33",NA,"BIH","Amira Spahic","aerial.lost","dm3c",NA,NA,NA,"ENG","Nobbs","aerial.won","am3c",NA,NA,NA,NA,NA,NA
+418,"33",NA,"ENG","Clarke","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+419,"33",NA,"ENG","Clarke","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+420,"33",NA,"ENG","Nobbs","passes.f","a3r",NA,"corner.crosses",NA,"BIH","Hodzic","gk.high.balls.won","d18","punched.to.safety",NA,NA,NA,NA,NA
+421,"33",NA,"BIH","Alisa Spahic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+422,"33",NA,"BIH","Alisa Spahic","passes.s.c","d3c",NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+423,"33",NA,"BIH","Seslija","passes.f.c","d3c",NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+423,"33",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+424,"33",NA,"BIH","Amira Spahic","passes.f","dm3l",NA,NA,NA,"ENG","Turner","interceptions","am3r",NA,NA,NA,NA,NA,NA
+425,"33",NA,"ENG","Turner","passes.b.c","am3r",NA,NA,NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+426,"33",NA,"ENG","Houghton","movement","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+427,"33",NA,"ENG","Houghton","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+428,"33",NA,"ENG","Houghton","passes.f","am3c",NA,NA,NA,"BIH","Radeljic","clearances","d3r",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+428,"34",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+429,"34",NA,"ENG","Turner","passes.b.c","am3r",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+430,"34",NA,"ENG","Houghton","passes.s.c","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+431,"34",NA,"ENG","Stoney","passes.f.c","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+432,"34",NA,"ENG","Bassett","passes.b.c","am3c",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+433,"34",NA,"ENG","Davison","take.on.won","am3c",NA,NA,NA,"BIH","Seslija","dribbled.out.run",NA,NA,NA,NA,NA,NA,NA
+434,"34",NA,"ENG","Davison","movement","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+435,"34",NA,"ENG","Davison","take.on.won","a3c",NA,NA,NA,"BIH","Nikolic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+436,"34",NA,"ENG","Davison","passes.s.c","a3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+437,"34",NA,"ENG","Christiansen","dispossessed","a3c",NA,NA,NA,"BIH","Kulis","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+438,"34",NA,"BIH","Hadzic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+439,"34",NA,"BIH","Hadzic","passes.f","d3c",NA,NA,NA,"ENG","Davison","pressured",NA,NA,NA,NA,NA,NA,NA
+439,"34",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Nobbs","blocks","a3c",NA,NA,NA,NA,NA,NA
+440,"34",NA,"ENG","Christiansen","recoveries","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+441,"34",NA,"ENG","Christiansen","passes.b.c","a3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+441,"34",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+442,"34",NA,"ENG","Nobbs","passes.b.c","a3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+443,"34",NA,"ENG","Bassett","passes.s.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+444,"34",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+445,"34",NA,"ENG","Bassett","passes.f","a3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+446,"34",NA,"BIH","Radeljic","recoveries","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+447,"34",NA,"BIH","Radeljic","clearances","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+448,"34",NA,"ENG","Nobbs","recoveries","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+449,"34",NA,"ENG","Nobbs","movement","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+450,"34",NA,"ENG","Nobbs","passes.b.c","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+451,"34",NA,"ENG","Houghton","passes.s.c","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+452,"35",NA,"ENG","Stoney","passes.s.c","am3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+453,"35",NA,"ENG","Houghton","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+454,"35",NA,"ENG","Bassett","movement","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+455,"35",NA,"ENG","Bassett","passes.f.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+456,"35",NA,"ENG","Christiansen","movement","am3l",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+457,"35",NA,"ENG","Christiansen","passes.b.c","a3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+458,"35",NA,"ENG","Houghton","shots.missed","a3c",NA,NA,NA,"BIH","Hodzic","gk.shot.miss",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+459,"35",NA,"BIH","Hodzic","passes.f","d6",NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+459,"35",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+460,"35",NA,"BIH","Seslija","aerial.lost","dm3c",NA,NA,NA,"ENG","Stokes","aerial.lost","am3c",NA,NA,NA,NA,NA,NA
+461,"35",NA,"BIH","Alisa Spahic","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+462,"35",NA,"BIH","Alisa Spahic","dispossessed","am3c",NA,NA,NA,"ENG","Stokes","tackles.ball","dm3c",NA,NA,NA,NA,NA,NA
+463,"35",NA,"ENG","Stoney","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+464,"35",NA,"ENG","Stoney","passes.f.c","dm3c",NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+465,"36",NA,"ENG","Christiansen","take.on.won","am3l",NA,NA,NA,"BIH","Nikolic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+466,"36",NA,"ENG","Christiansen","lost.touch","a3l",NA,NA,NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+467,"36",NA,"BIH","M Hasanbegovic","recoveries","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+468,"36",NA,"BIH","M Hasanbegovic","clearances","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+469,"36",NA,"ENG","Stoney","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+470,"36",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+471,"36",NA,"ENG","Bassett","passes.f","am3c",NA,"launch",NA,"BIH","M Hasanbegovic","blocks","3c",NA,NA,NA,NA,NA,NA
+472,"36",NA,"BIH","Hadzic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+473,"36",NA,"BIH","Hadzic","take.on.won","d3c",NA,NA,NA,"ENG","Clarke","dribbled.turned","a3c",NA,NA,NA,NA,NA,NA
+474,"36",NA,"BIH","Hadzic","take.on.won","d3c",NA,NA,NA,"ENG","Bassett","dribbled.tackles.missed","a3c",NA,NA,NA,NA,NA,NA
+475,"36",NA,"BIH","Hadzic","movement","d3c",NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+476,"36",NA,"BIH","Hadzic","passes.f","dm3r",NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+476,"36",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Davison","pressured",NA,NA,NA,NA,NA,NA,NA
+477,"36",NA,"ENG","Davison","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+478,"36",NA,"ENG","Davison","passes.f.c","am3l",NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+479,"36",NA,"ENG","Stoney","passes.s.c","dm3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+480,"36",NA,"ENG","Houghton","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+481,"36",NA,"ENG","Nobbs","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+482,"36",NA,"ENG","Turner","passes.s.c","am3r",NA,NA,NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+483,"36",NA,"ENG","Clarke","passes.b.c","am3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+484,"36",NA,"ENG","Houghton","passes.s.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+485,"36",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+486,"36",NA,"ENG","Stokes","passes.f.c","am3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+487,"36",NA,"ENG","Davison","passes.f.c","a3l",NA,"flick.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+488,"36",NA,"ENG","Stokes","take.on.won","a3l",NA,NA,NA,"BIH","Seslija","dribbled.out.run",NA,NA,NA,NA,NA,NA,NA
+489,"36",NA,"ENG","Stokes","passes.s.c","a3l",NA,"corner.crosses",NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+489,"36",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+489,"36",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","M Hasanbegovic","blocks","d18",NA,NA,NA,NA,NA,NA
+490,"37",NA,"ENG","Bassett","recoveries","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+491,"37",NA,"ENG","Bassett","passes.f.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+492,"37",NA,"ENG","Davison","passes.b.c","a3r",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+493,"37",NA,"ENG","Nobbs","passes.b.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+494,"37",NA,"ENG","Bassett","passes.f.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+495,"37",NA,"ENG","Houghton","passes.f.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+496,"37",NA,"ENG","Nobbs","passes.b.c","a3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+497,"37",NA,"ENG","Bassett","passes.f.c","a3c",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+498,"37",NA,"ENG","Nobbs","passes.b.c","a3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+498,"37",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+499,"37",NA,"ENG","Bassett","shots.missed","a3c",NA,NA,NA,"BIH","Hodzic","gk.shot.miss",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+500,"37",NA,"BIH","Hodzic","passes.f.c","d6",NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+500,"37",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+501,"37",NA,"BIH","Aleksic","passes.f","d3c",NA,"flick.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+501,"37",NA,NA,NA,NA,NA,NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+502,"37",NA,"BIH","Alisa Spahic","aerial.lost","dm3c",NA,NA,NA,"ENG","Houghton","aerial.won","am3c",NA,NA,"fouls.won",NA,"fouls.conceded",NA
+503,"38",NA,"BIH","Amira Spahic","passes.f","dm3c",NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+503,"38",NA,NA,NA,NA,NA,NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+504,"38",NA,"ENG","Houghton","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+505,"38",NA,"ENG","Houghton","movement","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+506,"38",NA,"ENG","Houghton","passes.f.c","d3r",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+507,"38",NA,"ENG","Bassett","passes.b.c","d3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+508,"38",NA,"ENG","Stoney","passes.f.c","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+509,"38",NA,"ENG","Houghton","passes.f.c","dm3c",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+509,"38",NA,NA,NA,NA,NA,NA,"switch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+510,"38",NA,"ENG","Christiansen","passes.b.c","a3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+511,"38",NA,"ENG","Davison","take.on.won","a3l",NA,NA,NA,"BIH","Alisa Spahic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+512,"38",NA,"ENG","Davison","passes.b.c","a3l",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+513,"38",NA,"ENG","Bassett","passes.f","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+514,"38",NA,"BIH","Hadzic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+515,"38",NA,"BIH","Hadzic","passes.f.c","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+516,"38",NA,"BIH","Alisa Spahic","dispossessed","d3c",NA,NA,NA,"ENG","Bassett","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+517,"38",NA,"BIH","Nikolic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+518,"38",NA,"BIH","Nikolic","clearances","d3c",NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+519,"38",NA,"ENG","Stokes","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+520,"38",NA,"ENG","Stokes","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+521,"38",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+522,"38",NA,"ENG","Nobbs","passes.f","am3c",NA,NA,NA,"BIH","Kulis","blocks","a3c",NA,NA,NA,NA,NA,NA
+523,"38",NA,"ENG","Nobbs","recoveries","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+524,"38",NA,"ENG","Nobbs","passes.s.c","a3r",NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+525,"38",NA,"ENG","Turner","passes.b.c","a3r",NA,NA,NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+526,"39",NA,"ENG","Davison","passes.s.c","a3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+527,"39",NA,"ENG","Nobbs","passes.f.c","a3c",NA,"lay.off",NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+527,"39",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+528,"39",NA,"ENG","Davison","passes.b.c","a3c",NA,"lay.off",NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+528,"39",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+529,"39",NA,"ENG","Nobbs","passes.f","a3c",NA,NA,NA,"BIH","Amira Spahic","blocks","d3c",NA,NA,NA,NA,NA,NA
+530,"39",NA,"BIH","Hadzic","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+531,"39",NA,"BIH","Hadzic","clearances","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+532,"39",NA,"ENG","Houghton","recoveries","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+533,"39",NA,"ENG","Houghton","passes.f.c","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+534,"39",NA,"ENG","Nobbs","passes.f","am3r",NA,"corner.crosses",NA,"BIH","M Hasanbegovic","blocks","a3c",NA,NA,NA,NA,NA,NA
+535,"39",NA,"BIH","Seslija","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+536,"39",NA,"BIH","Seslija","clearances","d3c",NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+536,"39",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Christiansen","pressured",NA,NA,NA,NA,NA,NA,NA
+537,"39",NA,"ENG","Stoney","recoveries","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+538,"39",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+539,"39",NA,"ENG","Davison","passes.f.c","a3c",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+539,"39",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+540,"39",NA,"ENG","Clarke","shots.blocked","a18",NA,NA,NA,"BIH","Amira Spahic","blocks","d18",NA,NA,NA,NA,NA,NA
+541,"39",NA,"BIH","Radeljic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+542,"39",NA,"BIH","Radeljic","clearances","d18",NA,NA,NA,"ENG","Turner","pressured",NA,NA,NA,NA,NA,NA,NA
+543,"39",NA,"ENG","Nobbs","recoveries","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+544,"39",NA,"ENG","Nobbs","take.on.won","a3r",NA,NA,NA,"BIH","Kulis","dribbled.tackles.missed","d3l",NA,NA,NA,NA,NA,NA
+545,"39",NA,"ENG","Nobbs","passes.b","a3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+545,"39",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Radeljic","interceptions","d3l",NA,NA,NA,NA,NA,NA
+546,"39",NA,"BIH","Radeljic","clearances","d3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+547,"39",NA,"ENG","Bassett","recoveries","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+548,"39",NA,"ENG","Bassett","passes.b.c","a3r",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+549,"39",NA,"ENG","Stoney","movement","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+550,"39",NA,"ENG","Stoney","passes.s.c","a3c",NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+551,"39",NA,"ENG","Houghton","passes.b.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+552,"40",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+553,"40",NA,"ENG","Christiansen","passes.f.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+554,"40",NA,"ENG","Davison","dispossessed","a3l",NA,NA,NA,"BIH","M Hasanbegovic","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+555,"40",NA,"BIH","Seslija","recoveries","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+556,"40",NA,"BIH","Seslija","clearances","d3r",NA,NA,NA,"ENG","Davison","blocks","a3l",NA,NA,NA,NA,NA,NA
+557,"40",NA,"ENG","Christiansen","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+558,"40",NA,"ENG","Christiansen","movement","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+559,"40",NA,"ENG","Christiansen","take.on.lost","a3l",NA,NA,NA,"BIH","Seslija","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+560,"40",NA,"BIH","Seslija","recoveries","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+561,"40",NA,"BIH","Seslija","movement","d3r",NA,NA,NA,"ENG","Christiansen","pressured",NA,NA,NA,NA,NA,NA,NA
+562,"40",NA,"BIH","Seslija","passes.f.c","dm3r",NA,NA,NA,"ENG","Christiansen","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+563,"40",NA,"BIH","M Hasanbegovic","passes.f","dm3r",NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+563,"40",NA,NA,NA,NA,NA,NA,"launch",NA,"ENG","Houghton","blocks","d3c",NA,NA,NA,NA,NA,NA
+564,"40",NA,"ENG","Clarke","recoveries","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+565,"40",NA,"ENG","Clarke","lost.touch","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+566,"40",NA,"BIH","Kulis","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+567,"40",NA,"BIH","Kulis","passes.f","am3l",NA,NA,NA,"ENG","Clarke","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+568,"40",NA,"ENG","Turner","passes.b.c","dm3r",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+569,"40",NA,"ENG","Houghton","movement","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+570,"40",NA,"ENG","Houghton","passes.s.c","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+571,"41",NA,"ENG","Stoney","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+572,"41",NA,"ENG","Stoney","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+573,"41",NA,"ENG","Nobbs","passes.f.c","am3r",NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+574,"41",NA,"ENG","Aluko","passes.s.c","a3r",NA,"corner.crosses",NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+575,"41",NA,"ENG","Christiansen","shots.blocked","a18",NA,NA,NA,"BIH","M Hasanbegovic","blocks","d18",NA,NA,NA,NA,NA,NA
+576,"41",NA,"BIH","M Hasanbegovic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+577,"41",NA,"BIH","M Hasanbegovic","clearances","d18",NA,NA,NA,"ENG","Nobbs","interceptions","a18",NA,NA,NA,NA,NA,NA
+578,"41",NA,"ENG","Nobbs","shots.blocked","a18",NA,NA,NA,"BIH","M Hasanbegovic","blocks","d18",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+579,"41",NA,"ENG","Turner","passes.b.c","a3r",NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+580,"41",NA,"ENG","Houghton","passes.f.c","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+581,"41",NA,"ENG","Nobbs","passes.s.c","a3r",NA,"corner.crosses",NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+582,"41",NA,"ENG","Christiansen","lost.touch","a18",NA,NA,NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+582,"41",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+583,"41",NA,"ENG","Stokes","recoveries","a3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+584,"41",NA,"ENG","Stokes","passes.b.c","a3l",NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,NA,NA,NA,NA
+585,"41",NA,"ENG","Davison","take.on.won","a3l",NA,NA,NA,"BIH","Nikolic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+586,"41",NA,"ENG","Davison","dispossessed","a3l",NA,NA,NA,"BIH","Seslija","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+587,"41",NA,"BIH","Nikolic","recoveries","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+588,"41",NA,"BIH","Nikolic","movement","d3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+589,"41",NA,"BIH","Nikolic","take.on.won","dm3r",NA,NA,NA,"ENG","Davison","dribbled.out.run",NA,NA,NA,NA,NA,NA,NA
+590,"41",NA,"BIH","Nikolic","movement","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+591,"41",NA,"BIH","Nikolic","shots.stopped.by.gk","am3r",NA,NA,NA,"ENG","Davison","pressured",NA,NA,NA,NA,NA,NA,NA
+591,"41",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Bardsley","gk.loose.balls.won","d18","collected",NA,NA,NA,NA,NA
+592,"41",NA,"ENG","Bardsley","passes.f.c","d18",NA,"gk.throws",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+593,"41",NA,"ENG","Houghton","movement","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+594,"41",NA,"ENG","Houghton","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+595,"42",NA,"ENG","Christiansen","lost.touch","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+596,"42",NA,"BIH","Seslija","recoveries","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+597,"42",NA,"BIH","Seslija","passes.s.c","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+598,"42",NA,"BIH","Alisa Spahic","clearances","d3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+599,"42",NA,"ENG","Davison","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+600,"42",NA,"ENG","Davison","passes.f","am3l",NA,NA,NA,"BIH","Nikolic","blocks","d3l",NA,NA,NA,NA,NA,NA
+601,"42",NA,"ENG","Bassett","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+602,"42",NA,"ENG","Bassett","passes.b.c","am3l",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+603,"42",NA,"ENG","Davison","passes.s.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+604,"42",NA,"ENG","Houghton","movement","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+605,"42",NA,"ENG","Houghton","passes.f.c","a3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+606,"42",NA,"ENG","Nobbs","passes.f.c","a3c",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+607,"42",NA,"ENG","Christiansen","passes.f.c","a3c",NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+607,"42",NA,NA,NA,NA,NA,NA,"flick.on",NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+608,"42",NA,"ENG","Clarke","passes.s","a18",NA,NA,NA,"BIH","Amira Spahic","blocks","d18",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+609,"43",NA,"ENG","Christiansen","passes.s","a3r",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+609,"43",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+610,"43",NA,"ENG","Houghton","aerial.lost","a18",NA,NA,NA,"BIH","Kulis","aerial.won","d18",NA,NA,NA,NA,NA,NA
+611,"43",NA,"ENG","Stoney","recoveries","a3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+612,"43",NA,"ENG","Stoney","movement","a3l",NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+613,"43",NA,"ENG","Stoney","passes.b.c","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+614,"43",NA,"ENG","Nobbs","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+615,"43",NA,"ENG","Bassett","passes.b.c","am3c",NA,"lay.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+616,"43",NA,"ENG","Nobbs","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+617,"43",NA,"ENG","Davison","movement","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+618,"43",NA,"ENG","Davison","passes.f.c","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+619,"43",NA,"ENG","Houghton","passes.s.c","a3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+620,"43",NA,"ENG","Christiansen","passes.f.c","a3r",NA,"flick.on",NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+621,"43",NA,"ENG","Houghton","passes.b.c","a3r",NA,NA,NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+622,"43",NA,"ENG","Christiansen","movement","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+623,"43",NA,"ENG","Christiansen","passes.s.c","a18",NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+624,"43",NA,"ENG","Clarke","lost.touch","a18",NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+625,"43",NA,"BIH","Nikolic","recoveries","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+626,"43",NA,"BIH","Nikolic","movement","d18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+627,"43",NA,"BIH","Nikolic","passes.f","d3l",NA,NA,NA,"ENG","Turner","challenged",NA,NA,NA,NA,NA,NA,NA
+628,"43",NA,"ENG","Stoney","recoveries","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+629,"43",NA,"ENG","Stoney","passes.b.c","am3r",NA,NA,NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+630,"43",NA,"ENG","Bardsley","passes.f.c","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+631,"43",NA,"ENG","Bassett","movement","dm3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+632,"43",NA,"ENG","Bassett","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+633,"43",NA,"ENG","Stokes","passes.f.c","a3l",NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+634,"44",NA,"ENG","Aluko","shots.blocked","a18",NA,NA,NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+634,"44",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Amira Spahic","blocks","d18",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+635,"44",NA,"ENG","Christiansen","passes.s","a3l",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+635,"44",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+636,"44",NA,"ENG","Clarke","aerial.lost","a6",NA,NA,NA,"BIH","Hodzic","gk.high.balls.lost","d6",NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+637,"45",NA,"BIH","Hodzic","passes.f.c","d6",NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+637,"45",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+638,"45",NA,"BIH","Hadzic","aerial.won","dm3l",NA,NA,NA,"ENG","Nobbs","aerial.lost","am3r",NA,NA,NA,NA,NA,NA
+639,"45",NA,"ENG","Christiansen","recoveries","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+640,"45",NA,"ENG","Christiansen","passes.f.c","am3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+641,"45",NA,"ENG","Nobbs","passes.f.c","a3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+642,"45",NA,"ENG","Clarke","passes.s","a3r",NA,"corner.crosses",NA,"BIH","Kulis","blocks","d3r",NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+643,"45",NA,NA,NA,"stoppage.in.play",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+644,"45+1",NA,"ENG","Christiansen","passes.s","a3r",NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+644,"45+1",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,"BIH","Hodzic","gk.high.balls.won","d6","caught",NA,NA,NA,NA,NA
+645,"45+2",NA,"BIH","Hodzic","passes.f","d18",NA,"gk.drop.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+645,"45+2",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+646,"45+2",NA,NA,NA,"halftime",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+647,"46",NA,"BIH","Seslija","passes.f.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+648,"46",NA,"BIH","Alisa Spahic","passes.b.c","am3c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+649,"46",NA,"BIH","Nikolic","passes.f","dm3c",NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+650,"46",NA,"ENG","Turner","recoveries","dm3r",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+651,"46",NA,"ENG","Turner","passes.f","dm3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+652,"46",NA,"BIH","Radeljic","recoveries","am3l",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+653,"46",NA,"BIH","Radeljic","passes.f","am3l",NA,NA,NA,"ENG","Turner","interceptions","dm3r",NA,NA,NA,NA,NA,NA
+654,"46",NA,"ENG","Turner","passes.f.c","dm3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+655,"46",NA,"ENG","Stokes","passes.f.c","dm3r",NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+655,"46",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Dijakovic","blocks",NA,NA,NA,NA,NA,NA,NA
+656,"46",NA,"ENG","Bassett","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+657,"46",NA,"ENG","Bassett","passes.f.c",NA,NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+658,"46",NA,"ENG","Davison","passes.f.c",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+659,"46",NA,"ENG","Stokes","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+660,"46",NA,"ENG","Stokes","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+661,"46",NA,"ENG","Stokes","passes.b.c",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+662,"46",NA,"ENG","Stoney","passes.s.c",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+663,"46",NA,"ENG","Bassett","passes.b.c",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+664,"46",NA,"ENG","Stoney","passes.f.c",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+665,"46",NA,"ENG","Houghton","passes.f",NA,NA,"switch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+666,"46",NA,"ENG","Aluko","offside.calls",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+667,"46",NA,"BIH","Hodzic","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+668,"47",NA,"BIH","Seslija","aerial.lost",NA,NA,NA,NA,"ENG","Stokes","aerial.won",NA,NA,NA,NA,NA,NA,NA
+669,"47",NA,"ENG","Christiansen","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+670,"47",NA,"ENG","Christiansen","lost.touch",NA,NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+671,"47",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+672,"47",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+673,"47",NA,NA," Nobbs","passes.f",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+674,"47",NA,"ENG","Clarke","dispossessed",NA,NA,NA,NA,"BIH","Radeljic","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+675,"48",NA,"ENG","Christiansen","passes.b",NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+676,"48",NA,"ENG","Nobbs","passes.f",NA,NA,"corner.crosses",NA,"BIH","M Hasanbegovic","blocks",NA,NA,NA,NA,NA,NA,NA
+677,"48",NA,"BIH","Kulis","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+678,"48",NA,"BIH","Kulis","dispossessed",NA,NA,NA,NA,"ENG","Nobbs","dispossessed",NA,NA,NA,"fouls.conceded",NA,"fouls.won",NA
+679,"48",NA,"ENG","Bassett","passes.f",NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+680,"48",NA,"ENG","Clarke","take.on.won",NA,NA,NA,NA,"BIH","Kulis","dribbled.out.run",NA,NA,NA,NA,NA,NA,NA
+681,"48",NA,"ENG","Clarke","passes.s",NA,NA,"corner.crosses",NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+682,"48",NA,"ENG","Stoney","aerial.lost",NA,NA,NA,NA,"BIH","M Hasanbegovic","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+682,"48",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.high.balls.won",NA,"caught",NA,NA,NA,NA,NA
+683,"49",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+683,"49",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+684,"49",NA,"ENG","Stokes","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+685,"49",NA,"ENG","Stoney","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+686,"49",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+687,"49",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+688,"49",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,"BIH","Nikolic","blocks",NA,NA,NA,NA,NA,NA,NA
+689,"49",NA,"ENG","Davison","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+690,"49",NA,"ENG","Davison","passes.f",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+690,"49",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Dijakovic","interceptions",NA,NA,NA,NA,NA,NA,NA
+691,"49",NA,"BIH","Dijakovic","passes.f",NA,NA,NA,NA,"ENG","Davison","pressured",NA,NA,NA,NA,NA,NA,NA
+692,"49",NA,"BIH","Alisa Spahic","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+693,"49",NA,"ENG","Stokes","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+694,"49",NA,"ENG","Bassett","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+695,"49",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+696,"49",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+697,"49",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,"BIH","Radeljic","ball.shield",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+698,"50",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+698,"50",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+699,"50",NA,"ENG","Bassett","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+700,"50",NA,"ENG","Bassett","passes.f",NA,NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+701,"50",NA,"ENG","Aluko","aerial.lost",NA,NA,NA,NA,"BIH","M Hasanbegovic","aerial.won",NA,NA,NA,NA,NA,NA,NA
+702,"50",NA,"BIH","Nikolic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+703,"50",NA,"BIH","Nikolic","clearances",NA,NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+704,"50",NA,"ENG","Bardsley","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+705,"50",NA,"ENG","Bardsley","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+706,"50",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+707,"50",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+708,"50",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+709,"50",NA,"ENG","Stokes","passes.f",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+710,"50",NA,"ENG","Bassett","dispossessed",NA,NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+711,"51",NA,"ENG","Christiansen","passes.f",NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,"yellow.card",NA
+711,"51",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+712,"51",NA,"ENG","Houghton","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+713,"51",NA,"ENG","Nobbs","shots.stopped.by.gk",NA,NA,NA,NA,"BIH","Hodzic","gk.s.o.g.stop",NA,"caught","diving",NA,NA,NA,NA
+714,"51",NA,"BIH","Hodzic","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+714,"51",NA,NA,NA,NA,NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+715,"51",NA,"ENG","Nobbs","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+716,"52",NA,"ENG","Nobbs","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+717,"52",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718,"52",NA,"ENG","Stokes","take.on.won",NA,NA,NA,NA,"BIH","Dijakovic","dribbled.turned",NA,NA,NA,NA,NA,NA,NA
+719,"52",NA,"ENG","Stokes","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+720,"52",NA,"ENG","Stokes","passes.f",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+721,"52",NA,"ENG","Aluko","dispossessed",NA,NA,NA,NA,"BIH","Amira Spahic","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+722,"52",NA,"BIH","Seslija","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+723,"52",NA,"BIH","Seslija","clearances",NA,NA,NA,NA,"ENG","Aluko","pressured",NA,NA,NA,NA,NA,NA,NA
+724,"52",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+725,"52",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+726,"52",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+727,"52",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+728,"52",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+729,"52",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+730,"52",NA,"ENG","Christiansen","passes.b",NA,NA,"lay.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+731,"52",NA,"ENG","Houghton","passes.s",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+732,"52",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+732,"52",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Nikolic","blocks",NA,NA,NA,NA,NA,NA,NA
+733,"52",NA,"BIH","M Hasanbegovic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+734,"52",NA,"BIH","M Hasanbegovic","clearances",NA,NA,NA,NA,"BIH","Nikolic","blocks",NA,NA,NA,NA,NA,NA,NA
+735,"52",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+736,"52",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,"ENG","Christiansen","pressured",NA,NA,NA,NA,NA,NA,NA
+737,"52",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+738,"52",NA,"ENG","Houghton","passes.f",NA,NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+739,"52",NA,"ENG","Clarke","passes.s",NA,NA,"corner.crosses",NA,"BIH","Kulis","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+740,"53",NA,"BIH","Hodzic","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+740,"53",NA,NA,NA,NA,NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+741,"53",NA,"BIH","Alisa Spahic","aerial.lost",NA,NA,NA,NA,"ENG","Nobbs","aerial.won",NA,NA,NA,NA,NA,NA,NA
+742,"53",NA,"BIH","Kulis","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+743,"53",NA,"BIH","Kulis","lost.touch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+744,"53",NA,"BIH","Kulis","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+745,"53",NA,"BIH","Kulis","clearances",NA,NA,NA,NA,"ENG","Clarke","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+746,"53",NA,"ENG","Turner","passes.f",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+747,"53",NA,"ENG","Christiansen","take.on.won",NA,NA,NA,NA,"BIH","Aleksic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+747,"53",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Aleksic","challenged",NA,NA,NA,NA,NA,NA,NA
+748,"53",NA,"ENG","Christiansen","dispossessed",NA,NA,NA,NA,"BIH","Radeljic","tackles.ball",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+749,"53",NA,"BIH","Kulis","passes.f",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+750,"53",NA,"BIH","Alisa Spahic","aerial.lost",NA,NA,NA,NA,"ENG","Turner","aerial.lost",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+750,"53",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Turner","challenged",NA,NA,NA,NA,NA,NA,NA
+751,"54",NA,"BIH","Kulis","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+751,"54",NA,NA,NA,NA,NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+752,"54",NA,"ENG","Bardsley","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+753,"54",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+754,"54",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+755,"54",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+756,"54",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+757,"54",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+758,"54",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+759,"54",NA,"ENG","Nobbs","passes.b",NA,NA,"lay.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+760,"54",NA,"ENG","Houghton","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+761,"54",NA,"ENG","Stoney","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+762,"54",NA,"BIH","Dijakovic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+763,"54",NA,"BIH","Dijakovic","passes.f",NA,NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+764,"54",NA,"ENG","Davison","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+765,"54",NA,"ENG","Davison","passes.f",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+766,"54",NA,"ENG","Stokes","lost.touch",NA,NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,NA,NA,NA,NA
+767,"54",NA,"ENG","Stokes","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+768,"55",NA,"ENG","Stokes","take.on.won",NA,NA,NA,NA,"BIH","Seslija","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+769,"55",NA,"ENG","Stokes","take.on.lost",NA,NA,NA,NA,"BIH","Nikolic","dispossessed",NA,NA,NA,NA,NA,NA,NA
+770,"55",NA,"BIH","Nikolic","passes.f",NA,NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+770,"55",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+771,"55",NA,"ENG","Clarke","substitution.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+772,"55",NA,"ENG","J Scott","substitution.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+773,"55",NA,"ENG","Stoney","passes.f",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+774,"55",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+775,"55",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+776,"55",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+777,"55",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,"BIH","Hadzic","challenged",NA,NA,NA,NA,NA,NA,NA
+778,"55",NA,"ENG","Christiansen","passes.f",NA,NA,NA,NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+779,"55",NA,"ENG","J Scott","lost.touch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+780,"55",NA,"BIH","Kulis","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+781,"55",NA,"BIH","Kulis","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+782,"55",NA,"ENG","Bardsley","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+783,"55",NA,"ENG","Bardsley","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+784,"56",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+785,"56",NA,"ENG","Houghton","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+786,"56",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+787,"56",NA,"ENG","Bassett","passes.s",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+788,"56",NA,"ENG","Turner","passes.f",NA,NA,NA,NA,"BIH","Amira Spahic","blocks",NA,NA,NA,NA,NA,NA,NA
+789,"56",NA,"BIH","Hadzic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+790,"56",NA,"BIH","Hadzic","dispossessed",NA,NA,NA,NA,"ENG","Christiansen","challenged",NA,NA,NA,NA,NA,NA,NA
+791,"56",NA,"ENG","Turner","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+792,"56",NA,"ENG","Turner","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+793,"56",NA,"ENG","Aluko","dispossessed",NA,NA,NA,NA,"BIH","Aleksic","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+794,"56",NA,"ENG","Turner","passes.s",NA,NA,"throw.in",NA,"BIH","Radeljic","clearances",NA,NA,NA,NA,NA,NA,NA
+795,"56",NA,"BIH","Alisa Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+796,"56",NA,"BIH","Alisa Spahic","clearances",NA,NA,NA,NA,"ENG","Turner","pressured",NA,NA,NA,NA,NA,NA,NA
+797,"56",NA,"ENG","Bardsley","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+798,"56",NA,"ENG","Bardsley","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+799,"56",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+800,"56",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+801,"56",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+802,"57",NA,"ENG","Davison","movement",NA,NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,NA,NA,NA,NA
+803,"57",NA,"ENG","Davison","take.on.won",NA,NA,NA,NA,"BIH","Dijakovic","dribbled.out.run",NA,NA,NA,NA,NA,NA,NA
+804,"57",NA,"ENG","Davison","take.on.won",NA,NA,NA,NA,"BIH","Alisa Spahic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+805,"57",NA,"ENG","Davison","passes.s",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+805,"57",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hadzic","blocks",NA,NA,NA,NA,NA,NA,NA
+806,"57",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+807,"57",NA,"ENG","Houghton","passes.f",NA,NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+808,"57",NA,"ENG","Christiansen","take.on.lost",NA,NA,NA,NA,"BIH","Dijakovic","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+809,"58",NA,"ENG","Christiansen","shots.stopped.by.gk",NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+809,"58",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.s.o.g.stop",NA,"punched.to.danger","reaching",NA,NA,NA,NA
+810,"58",NA,"ENG","Bassett","aerial.lost",NA,NA,NA,NA,"BIH","Amira Spahic","aerial.won",NA,NA,NA,NA,NA,NA,NA
+811,"58",NA,"BIH","Radeljic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+812,"58",NA,"BIH","Radeljic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+813,"58",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+814,"58",NA,"ENG","Houghton","passes.f",NA,NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+815,"58",NA,"ENG","Stokes","lost.touch",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+816,"58",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+817,"58",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+818,"58",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+819,"58",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+820,"58",NA,"ENG","Aluko","lost.touch",NA,NA,NA,NA,"BIH","M Hasanbegovic","challenged",NA,NA,NA,NA,NA,NA,NA
+821,"59",NA,"BIH","Alisa Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+822,"59",NA,"BIH","Alisa Spahic","passes.b",NA,NA,NA,NA,"ENG","Aluko","pressured",NA,NA,NA,NA,NA,NA,NA
+823,"59",NA,"ENG","Christiansen","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+824,"59",NA,"ENG","Christiansen","passes.b",NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+825,"59",NA,"ENG","J Scott","passes.f",NA,NA,"through",NA,"BIH","Aleksic","blocks",NA,NA,NA,NA,NA,NA,NA
+826,"59",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+827,"59",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+828,"59",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+828,"59",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Alisa Spahic","blocks",NA,NA,NA,NA,NA,NA,NA
+829,"59",NA,"BIH","Nikolic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+830,"59",NA,"BIH","Nikolic","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+831,"59",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+832,"59",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+833,"59",NA,"ENG","Bassett","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+834,"59",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+835,"59",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+836,"59",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+837,"59",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+838,"59",NA,"ENG","Davison","take.on.won",NA,NA,NA,NA,"BIH","Kulis","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+839,"59",NA,"ENG","Davison","movement",NA,NA,NA,NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+840,"59",NA,"ENG","Davison","dispossessed",NA,NA,NA,NA,"BIH","Amira Spahic","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+841,"59",NA,"BIH","Radeljic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+842,"59",NA,"BIH","Radeljic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+843,"59",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+844,"59",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+845,"59",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+846,"59",NA,"ENG","J Scott","passes.f",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+847,"60",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+847,"60",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+848,"60",NA,"ENG","Houghton","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+849,"60",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+850,"60",NA,"ENG","Christiansen","passes.f",NA,NA,"through",NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+850,"60",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Seslija","blocks",NA,NA,NA,NA,NA,NA,NA
+851,"60",NA,"ENG","Stokes","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+852,"60",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+852,"60",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Alisa Spahic","blocks",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+853,"60",NA,"ENG","Christiansen","substitution.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+854,"60",NA,"ENG","Duggan","substitution.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+855,"60",NA,"ENG","Stokes","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+856,"60",NA,"ENG","Stoney","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+857,"60",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+858,"60",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+859,"60",NA,"ENG","Duggan","passes.f",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+860,"60",NA,"ENG","Nobbs","passes.b",NA,NA,"lay.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+861,"60",NA,"ENG","Duggan","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+862,"60",NA,"BIH","Aleksic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+863,"60",NA,"BIH","Aleksic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+864,"61",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+865,"61",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+866,"61",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+867,"61",NA,"ENG","Stokes","passes.f",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+868,"61",NA,"ENG","Duggan","lost.touch",NA,NA,NA,NA,"BIH","Alisa Spahic","clearances",NA,NA,NA,NA,NA,NA,NA
+869,"61",NA,"ENG","Bassett","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+870,"61",NA,"ENG","Bassett","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+871,"61",NA,"ENG","Bassett","passes.s",NA,NA,NA,NA,"BIH","Alisa Spahic","P (pressured)",NA,NA,NA,NA,NA,NA,NA
+872,"61",NA,"ENG","Nobbs","passes.s",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+873,"61",NA,"ENG","J Scott","passes.f",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+874,"61",NA,"ENG","Davison","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+875,"61",NA,"ENG","Houghton","lost.touch",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+876,"61",NA,"BIH","Alisa Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+877,"61",NA,"BIH","Alisa Spahic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+878,"61",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+879,"61",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+880,"61",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+881,"61",NA,"ENG","Bassett","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+882,"61",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,"BIH","Seslija","challenged",NA,NA,NA,NA,NA,NA,NA
+883,"61",NA,"ENG","Duggan","passes.b",NA,NA,"lay.off",NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+884,"61",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+885,"62",NA,"ENG","Stokes","passes.f",NA,NA,"flick.on",NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+886,"62",NA,"ENG","Bassett","dispossessed",NA,NA,NA,NA,"BIH","Dijakovic","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+887,"62",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+888,"62",NA,"ENG","Duggan","take.on.won",NA,NA,NA,NA,"BIH","Alisa Spahic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+889,"62",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+890,"62",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,"BIH","Aleksic","blocks",NA,NA,NA,NA,NA,NA,NA
+890,"62",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.loose.balls.won",NA,"collected",NA,NA,NA,NA,NA
+891,"62",NA,"BIH","Hodzic","passes.f",NA,NA,"gk.drop.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+891,"62",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+892,"62",NA,"ENG","J Scott","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+893,"62",NA,"ENG","J Scott","passes.s",NA,NA,"headed",NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+894,"62",NA,"ENG","Duggan","passes.f",NA,NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+895,"62",NA,"ENG","Aluko","take.on.lost",NA,NA,NA,NA,"BIH","M Hasanbegovic","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+896,"62",NA,"ENG","Stokes","passes.s",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+897,"62",NA,"ENG","Duggan","lost.touch",NA,NA,NA,NA,"BIH","Seslija","challenged",NA,NA,NA,NA,NA,NA,NA
+898,"62",NA,"BIH","Nikolic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+899,"62",NA,"BIH","Nikolic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+900,"63",NA,"ENG","Bardsley","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+901,"63",NA,"ENG","Bardsley","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+902,"63",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+903,"63",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+904,"63",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+905,"63",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+906,"63",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+907,"63",NA,"ENG","Bassett","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+908,"63",NA,"ENG","Stokes","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+909,"63",NA,"ENG","Duggan","passes.f",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+910,"63",NA,"ENG","J Scott","passes.f",NA,NA,"flick.on",NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+910,"63",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.loose.balls.won",NA,"collected",NA,NA,NA,NA,NA
+911,"63",NA,"BIH","Hodzic","passes.f",NA,NA,"gk.drop.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+911,"63",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+912,"63",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+913,"63",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+914,"63",NA,"BIH","Nikolic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+915,"63",NA,"BIH","Nikolic","passes.f",NA,NA,"headed",NA,"ENG","Nobbs","pressured",NA,NA,NA,NA,NA,NA,NA
+916,"63",NA,"ENG","Bassett","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+917,"63",NA,"ENG","Bassett","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+918,"63",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+919,"63",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+920,"63",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+921,"64",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+922,"64",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+923,"64",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,"BIH","Kulis","interceptions",NA,NA,NA,NA,NA,NA,NA
+924,"64",NA,"BIH","Kulis","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+925,"64",NA,"ENG","Bardsley","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+926,"64",NA,"ENG","Bardsley","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+927,"64",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+928,"64",NA,"ENG","Turner","passes.f",NA,NA,"launch",NA,"BIH","Aleksic","blocks",NA,NA,NA,NA,NA,NA,NA
+929,"64",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+929,"64",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","M Hasanbegovic","blocks",NA,NA,NA,NA,NA,NA,NA
+930,"64",NA,"ENG","Aluko","lost.touch",NA,NA,NA,NA,"BIH","Amira Spahic","challenged",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+931,"65",NA,"BIH","Hodzic","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+931,"65",NA,NA,NA,NA,NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+932,"65",NA,"ENG","Bassett","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+933,"65",NA,"ENG","Bassett","passes.f",NA,NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+934,"65",NA,"ENG","Davison","dispossessed",NA,NA,NA,NA,"BIH","Kulis","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+935,"65",NA,"ENG","Davison","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+936,"65",NA,"ENG","Turner","passes.b",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+937,"65",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+938,"65",NA,"ENG","Turner","passes.f",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+938,"65",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Aleksic","blocks",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+939,"65",NA,"ENG","Duggan","passes.s",NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+939,"65",NA,NA,NA,NA,NA,NA,"corner.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+940,"65",NA,"ENG","Houghton","aerial.won",NA,NA,NA,NA,"BIH","Radeljic","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+941,"65",NA,"ENG","J Scott","take.on.lost",NA,NA,NA,NA,"BIH","Kulis","challenged",NA,NA,NA,NA,NA,NA,NA
+942,"65",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+943,"65",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+944,"65",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+945,"66",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+946,"66",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+947,"66",NA,"ENG","Stoney","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+948,"66",NA,"ENG","Stokes","lost.touch",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+949,"66",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+949,"66",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+950,"66",NA,"ENG","Nobbs","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+951,"66",NA,"ENG","Nobbs","passes.f",NA,NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+952,"66",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+953,"66",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+954,"66",NA,"ENG","Turner","passes.s",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+955,"66",NA,"ENG","Nobbs","passes.s",NA,NA,"lay.off",NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+956,"66",NA,"ENG","Turner","passes.b",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+957,"67",NA,"ENG","Houghton","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+958,"67",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+959,"67",NA,"ENG","Stokes","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+960,"67",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+961,"67",NA,"ENG","Nobbs","shots.stopped.by.gk",NA,NA,NA,NA,"BIH","Hodzic","gk.s.o.g.stop",NA,"punched.to.danger",NA,NA,NA,NA,NA
+962,"67",NA,"ENG","Davison","aerial.won",NA,NA,NA,NA,"BIH","Aleksic","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+962,"67",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.loose.balls.won",NA,"collected",NA,NA,NA,NA,NA
+963,"67",NA,"BIH","Hodzic","passes.f",NA,NA,"gk.drop.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+963,"67",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+964,"67",NA,"BIH","Seslija","passes.s",NA,NA,"headed",NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+965,"67",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+966,"67",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+967,"67",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,"BIH","Radeljic","interceptions",NA,NA,NA,NA,NA,NA,NA
+967,"67",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Radeljic","clearances",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+968,"67",NA,"ENG","Davison","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+969,"67",NA,"ENG","Nobbs","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+970,"68",NA,"ENG","Duggan","movement",NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+970,"68",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+971,"68",NA,"ENG","Duggan","passes.b",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+972,"68",NA,"ENG","Davison","passes.f",NA,NA,NA,NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+973,"68",NA,"ENG","J Scott","passes.s",NA,NA,NA,NA,"BIH","Hadzic","challenged",NA,NA,NA,NA,NA,NA,NA
+973,"68",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+974,"68",NA,"ENG","Duggan","passes.s",NA,NA,"corner.crosses",NA,"BIH","Aleksic","blocks",NA,NA,NA,NA,NA,NA,NA
+975,"68",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+976,"68",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+977,"68",NA,"ENG","Nobbs","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+978,"68",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+979,"68",NA,"ENG","Houghton","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+980,"68",NA,"ENG","Turner","passes.f",NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+981,"68",NA,"ENG","J Scott","aerial.won",NA,NA,NA,NA,"BIH","Amira Spahic","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+982,"68",NA,"ENG","J Scott","aerial.lost",NA,NA,NA,NA,"BIH","Aleksic","aerial.won",NA,NA,NA,NA,NA,NA,NA
+983,"68",NA,"ENG","Duggan","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+984,"68",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+985,"68",NA,"ENG","Davison","passes.s",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+985,"68",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Aleksic","interceptions",NA,NA,NA,NA,NA,NA,NA
+985,"68",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Aleksic","clearances",NA,NA,NA,NA,NA,NA,NA
+986,"68",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+987,"68",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+988,"68",NA,"ENG","Bassett","passes.b",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+988,"68",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+989,"68",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+990,"68",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+991,"68",NA,"BIH","Dijakovic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+992,"68",NA,"BIH","Dijakovic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+993,"68",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+994,"68",NA,"ENG","Houghton","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+995,"68",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+996,"68",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+997,"68",NA,"ENG","Stokes","passes.f",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+998,"69",NA,"ENG","Aluko","passes.s",NA,NA,"corner.crosses",NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,"assists",NA,NA
+998,"69",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+999,"69",NA,"ENG","J Scott","shots.scored",NA,NA,NA,NA,"BIH","Hodzic","gk.s.o.g.scored",NA,NA,"diving",NA,NA,NA,NA
+1000,"69",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1001,"69",NA,"BIH","M Hasanbegovic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1002,"70",NA,NA,NA,"playcutoffbybroadcast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1003,"70",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1004,"70",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1005,"70",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1006,"70",NA,"ENG","Stokes","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1007,"70",NA,"ENG","Duggan","dispossessed",NA,NA,NA,NA,"BIH","Alisa Spahic","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+1008,"70",NA,"ENG","Duggan","passes.f",NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1008,"70",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1009,"70",NA,"BIH","Dijakovic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1010,"70",NA,"BIH","Dijakovic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1011,"71",NA,"BIH","Radeljic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1012,"71",NA,"BIH","Radeljic","dispossessed",NA,NA,NA,NA,"ENG","Turner","dispossessed",NA,NA,NA,NA,NA,NA,NA
+1013,"71",NA,"ENG","Turner","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1014,"71",NA,"ENG","Turner","lost.touch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1015,"71",NA,"BIH","Hadzic","recoveries",NA,NA,NA,NA,"ENG","Turner","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+1015,"71",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"yellow.cards",NA
+1016,"71",NA,"BIH","Kulis","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1016,"71",NA,NA,NA,NA,NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1016,"71",NA,"ENG","Stoney",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1017,"71",NA,"ENG","Stoney","lost.touch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1018,"71",NA,"BIH","Nikolic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1019,"72",NA,"BIH","Nikolic","movement",NA,NA,NA,NA,"ENG","Stoney","pressured",NA,NA,NA,NA,NA,NA,NA
+1020,"72",NA,"BIH","Nikolic","movement",NA,NA,NA,NA,"ENG","Stoney","pressured",NA,NA,NA,NA,NA,NA,NA
+1021,"72",NA,"BIH","Nikolic","passes.f",NA,NA,NA,NA,"ENG","Stoney","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1022,"72",NA,"ENG","Bardsley","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1023,"72",NA,"ENG","Nobbs","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1024,"72",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1025,"72",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1026,"72",NA,"ENG","Stokes","passes.f",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+1027,"72",NA,"ENG","Duggan","passes.f",NA,NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1028,"72",NA,"ENG","Stokes","passes.s",NA,NA,"corner.crosses",NA,"BIH","Kulis","blocks",NA,NA,NA,NA,NA,NA,NA
+1029,"72",NA,"BIH","Radeljic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1030,"72",NA,"BIH","Radeljic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1031,"73",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1032,"73",NA,"ENG","Houghton","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1033,"73",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1034,"73",NA,"ENG","J Scott","passes.f",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+1035,"73",NA,"ENG","Turner","passes.f",NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1036,"73",NA,"ENG","Duggan","aerial.lost",NA,NA,NA,NA,"BIH","Dijakovic","aerial.lost",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1037,"73",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1037,"73",NA,NA,NA,NA,NA,NA,"launh",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1038,"73",NA,"ENG","Duggan","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1039,"73",NA,"ENG","Duggan","dispossessed",NA,NA,NA,NA,"BIH","Seslija","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+1040,"73",NA,"BIH","Dijakovic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1041,"73",NA,"BIH","Dijakovic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1042,"73",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1043,"73",NA,"ENG","Stoney","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1044,"73",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1045,"73",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1046,"73",NA,"ENG","Turner","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1047,"73",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1048,"73",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1049,"73",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1050,"74",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1051,"74",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1052,"74",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1053,"74",NA,"ENG","Aluko","passes.b",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1054,"74",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1055,"74",NA,"ENG","J Scott","passes.s",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+1056,"74",NA,"ENG","Davison","passes.f",NA,NA,NA,NA,"BIH","Kulis","blocks",NA,NA,NA,NA,NA,NA,NA
+1057,"74",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1058,"74",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1059,"74",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1060,"74",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1061,"74",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1062,"74",NA,"ENG","Duggan","passes.b",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1063,"74",NA,"ENG","J Scott","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1064,"74",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1065,"74",NA,"ENG","Duggan","dispossessed",NA,NA,NA,NA,"BIH","Dijakovic","dispossessed",NA,NA,NA,NA,NA,NA,NA
+1066,"74",NA,"BIH","Dijakovic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1067,"74",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1068,"74",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1069,"74",NA,"ENG","Duggan","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1070,"74",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1071,"74",NA,"ENG","Aluko","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1072,"74",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1073,"74",NA,"ENG","Aluko","passes.f",NA,NA,"deep.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1074,"74",NA,"ENG","Turner","passes.s",NA,NA,NA,NA,"BIH","Radeljic","blocks",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+1075,"75",NA,"ENG","Duggan","passes.s",NA,NA,"corner.kick",NA,"BIH","Aleksic","blocks",NA,NA,NA,NA,NA,NA,NA
+1075,"75",NA,NA,NA,NA,NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1076,"75",NA,"ENG","Nobbs","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1077,"75",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1078,"75",NA,"ENG","Duggan","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1079,"75",NA,"ENG","Davison","passes.b",NA,NA,NA,NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+1080,"75",NA,"ENG","Turner","dispossessed",NA,NA,NA,NA,"BIH","Kulis","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+1081,"75",NA,"ENG","Turner","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1082,"76",NA,"ENG","Nobbs","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1083,"76",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1084,"76",NA,"ENG","Houghton","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1085,"76",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1086,"76",NA,"ENG","Stokes","take.on.won",NA,NA,NA,NA,"BIH","Dijakovic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+1087,"76",NA,"ENG","Stokes","passes.s",NA,NA,"corner.crosses",NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+1087,"76",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Amira Spahic","blocks",NA,NA,NA,NA,NA,NA,NA
+1088,"76",NA,"ENG","Nobbs","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1089,"76",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1090,"76",NA,"ENG","Davison","passes.f",NA,NA,NA,NA,"BIH","Kulis","blocks",NA,NA,NA,NA,NA,NA,NA
+1091,"76",NA,"ENG","Davison","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1092,"76",NA,"ENG","Davison","passes.s",NA,NA,NA,NA,"BIH","Kulis","challenged",NA,NA,NA,NA,NA,NA,NA
+1093,"76",NA,"ENG","Nobbs","shots.missed",NA,NA,NA,NA,"BIH","Hodzic","gk.shot.miss",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1094,"76",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1094,"76",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1095,"76",NA,"BIH","Nikolic","aerial.lost",NA,NA,NA,NA,"ENG","J Scott","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+1096,"76",NA,"BIH","Alisa Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1097,"76",NA,"BIH","Alisa Spahic","passes.f",NA,NA,"launch",NA,"ENG","Bassett","challenged",NA,NA,NA,NA,NA,NA,NA
+1098,"77",NA,"ENG","Bardsley","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1099,"77",NA,"ENG","Bardsley","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1100,"77",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1101,"77",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1102,"77",NA,"ENG","Houghton","passes.f",NA,NA,"switch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1103,"77",NA,"ENG","Duggan","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1104,"77",NA,"ENG","Aluko","lost.touch",NA,NA,NA,NA,"BIH","M Hasanbegovic","challenged",NA,NA,NA,NA,NA,NA,NA
+1105,"77",NA,"ENG","Duggan","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1106,"77",NA,"ENG","Duggan","lost.touch",NA,NA,NA,NA,"BIH","Alisa Spahic","challenged",NA,NA,NA,NA,NA,NA,NA
+1107,"77",NA,"BIH","Nikolic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1108,"77",NA,"BIH","Nikolic","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1109,"77",NA,"BIH","Nikolic","movement",NA,NA,NA,NA,"ENG","J Scott","pressured",NA,NA,NA,NA,NA,NA,NA
+1110,"77",NA,"BIH","Nikolic","lost.touch",NA,NA,NA,NA,"ENG","Stokes","challenged",NA,NA,NA,NA,NA,NA,NA
+1111,"77",NA,"BIH","Nikolic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1112,"77",NA,"BIH","Nikolic","clearances",NA,NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1113,"77",NA,"ENG","Stoney","passes.s",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1114,"77",NA,"ENG","Bardsley","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1115,"77",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1116,"78",NA,"ENG","Turner","passes.f",NA,NA,NA,NA,"BIH","Aleksic","blocks",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+1117,"78",NA,"ENG","Turner","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1118,"78",NA,"ENG","Houghton","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1119,"78",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1120,"78",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1121,"78",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1122,"78",NA,"ENG","Bassett","passes.s",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1123,"78",NA,"ENG","Stoney","passes.b",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1124,"78",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+1125,"78",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1126,"78",NA,"ENG","J Scott","passes.f",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+1127,"78",NA,"ENG","Davison","passes.s",NA,NA,NA,NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+1128,"78",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1129,"78",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1130,"78",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1131,"78",NA,"ENG","Houghton","passes.f",NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1132,"79",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1132,"79",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1133,"79",NA,"BIH","Hadzic","a;",NA,NA,NA,NA,"ENG","Nobbs","aerial.won",NA,NA,NA,NA,NA,NA,NA
+1134,"79",NA,"BIH","Dijakovic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1135,"79",NA,"BIH","Dijakovic","clearances",NA,NA,"headed",NA,"ENG","Duggan","pressured",NA,NA,NA,NA,NA,NA,NA
+1135,"79",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Aluko","pressured",NA,NA,NA,NA,NA,NA,NA
+1136,"79",NA,"ENG","Duggan","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1137,"79",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+1137,"79",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+1138,"79",NA,"ENG","Stokes","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1139,"79",NA,"ENG","Aluko","passes.f",NA,NA,NA,NA,"BIH","M Hasanbegovic","challenged",NA,NA,NA,NA,NA,NA,NA
+1140,"79",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,"BIH","M Hasanbegovic","pressured",NA,NA,NA,NA,NA,NA,NA
+1140,"79",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Seslija","blocks",NA,NA,NA,NA,NA,NA,NA
+1141,"79",NA,"ENG","Duggan","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1142,"79",NA,"ENG","Duggan","passes.s",NA,NA,"switch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1143,"79",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1144,"80",NA,"BIH","Kulis","passes.f",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1145,"80",NA,"BIH","Hadzic","aerial.lost",NA,NA,NA,NA,"ENG","Bassett","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+1146,"80",NA,"ENG","Turner","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1147,"80",NA,"ENG","Turner","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1148,"80",NA,"ENG","Davison","passes.s",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+1149,"80",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1150,"80",NA,"ENG","J Scott","passes.f",NA,NA,NA,NA,"BIH","Nikolic","blocks",NA,NA,NA,NA,NA,NA,NA
+1151,"80",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1152,"80",NA,"ENG","Stoney","passes.s",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1153,"80",NA,"ENG","Houghton","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1154,"80",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1155,"80",NA,"ENG","Duggan","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1156,"80",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1157,"80",NA,"BIH","Seslija","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1158,"80",NA,"BIH","Seslija","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1159,"80",NA,"ENG","Stoney","passes.s",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1160,"80",NA,"ENG","Bassett","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1161,"80",NA,"ENG","Houghton","take.on.won",NA,NA,NA,NA,"BIH","Hadzic","dribbled.tackles.missed",NA,NA,NA,NA,NA,NA,NA
+1162,"80",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1163,"80",NA,"ENG","Duggan","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1164,"80",NA,"ENG","Bassett","passes.f",NA,NA,"lay.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1165,"80",NA,"ENG","Duggan","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1166,"80",NA,"ENG","J Scott","passes.b",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+1167,"81",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1168,"81",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1169,"81",NA,"ENG","Bassett","shots.missed",NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1169,"81",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.shot.miss",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1170,"81",NA,"BIH","Dijakovic","substitution.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1171,"81",NA,"BIH","Lihovic","substitution.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1172,"81",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1172,"81",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1173,"81",NA,"BIH","Amira Spahic","aerial.lost",NA,NA,NA,NA,"ENG","Bassett","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+1174,"81",NA,"BIH","Alisa Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1175,"81",NA,"BIH","Alisa Spahic","passes.f",NA,NA,NA,NA,"ENG","Houghton","challenged",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1176,"82",NA,"ENG","Turner","passes.s",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1177,"82",NA,"ENG","J Scott","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1178,"82",NA,"ENG","Houghton","passes.s",NA,NA,"switch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1179,"82",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1180,"82",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1181,"82",NA,"ENG","Duggan","passes.b",NA,NA,"lay.off",NA,"BIH","Seslija","challenged",NA,NA,NA,NA,NA,NA,NA
+1182,"82",NA,"ENG","Nobbs","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1183,"82",NA,"ENG","Nobbs","passes.s",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1184,"82",NA,"ENG","Houghton","passes.s",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+1185,"82",NA,"ENG","Turner","passes.f",NA,NA,NA,NA,"BIH","Kulis","interceptions",NA,NA,NA,NA,NA,NA,NA
+1186,"82",NA,"BIH","Kulis","passes.f",NA,NA,NA,NA,"ENG","J Scott","pressured",NA,NA,NA,NA,NA,NA,NA
+1187,"82",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1188,"82",NA,"ENG","Houghton","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1189,"82",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1190,"82",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1191,"82",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1192,"82",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1193,"82",NA,"ENG","Aluko","dispossessed",NA,NA,NA,NA,"BIH","Seslija","tackles.ball",NA,NA,NA,NA,NA,NA,NA
+1194,"82",NA,"BIH","Nikolic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1195,"82",NA,"BIH","Nikolic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1196,"83",NA,"ENG","Bardsley","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1197,"83",NA,"ENG","Bardsley","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1198,"83",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1199,"83",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1200,"83",NA,"ENG","Nobbs","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1201,"83",NA,"ENG","Stokes","passes.s",NA,NA,"lay.off",NA,"BIH","Lihovic","pressured",NA,NA,NA,NA,NA,NA,NA
+1202,"83",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1203,"83",NA,"ENG","Duggan","passes.b",NA,NA,"lay.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1204,"83",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1205,"83",NA,"ENG","Duggan","lost.touch",NA,NA,NA,NA,"BIH","Amira Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1205,"83",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+1206,"83",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1207,"83",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1208,"83",NA,"ENG","Houghton","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1209,"83",NA,"ENG","Houghton","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1210,"83",NA,"ENG","Turner","passes.f",NA,NA,"corner.crosses",NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,NA,NA,NA
+1210,"83",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Kulis","blocks",NA,NA,NA,NA,NA,NA,NA
+1211,"83",NA,"BIH","Aleksic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1212,"83",NA,"BIH","Aleksic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1212,"83",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1213,"83",NA,"ENG","Bassett","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1214,"83",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+1214,"83",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1215,"83",NA,"ENG","Davison","take.on.won",NA,NA,NA,NA,"BIH","Kulis","dribbled.out.run",NA,NA,NA,NA,NA,NA,NA
+1216,"83",NA,"ENG","Davison","lost.touch",NA,NA,NA,NA,"BIH","Aleksic","clearances",NA,NA,NA,NA,NA,NA,NA
+1217,"83",NA,"ENG","Davison","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1218,"83",NA,"ENG","Davison","dispossessed",NA,NA,NA,NA,"BIH","Aleksic","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+1219,"84",NA,"ENG","Houghton","substitution.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1220,"84",NA,"ENG","Rose","substitution.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1221,"84",NA,"ENG","Turner","passes.s",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1222,"84",NA,"ENG","J Scott","passes.s",NA,NA,NA,NA,"BIH","Aleksic","challenged",NA,NA,NA,NA,NA,NA,NA
+1223,"84",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1224,"84",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1225,"84",NA,"BIH","Aleksic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1226,"84",NA,"BIH","Aleksic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1227,"84",NA,"ENG","Turner","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1228,"84",NA,"ENG","Turner","passes.s",NA,NA,"corner.crosses",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1229,"85",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1229,"85",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1230,"85",NA,"ENG","J Scott","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1231,"85",NA,"ENG","J Scott","passes.f",NA,NA,NA,NA,"BIH","Kulis","blocks",NA,NA,NA,NA,NA,NA,NA
+1232,"85",NA,"ENG","Nobbs","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1233,"85",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Nikolic","challenged",NA,NA,NA,NA,NA,NA,NA
+1234,"85",NA,"BIH","Alisa Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1235,"85",NA,"BIH","Alisa Spahic","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1236,"85",NA,"BIH","Nikolic","passes.f",NA,NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+1236,"85",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Turner","blocks",NA,NA,NA,NA,NA,NA,NA
+1237,"85",NA,"ENG","Bassett","lost.touch",NA,NA,NA,NA,"BIH","Nikolic","challenged",NA,NA,NA,"fouls.conceded",NA,"fouls.won",NA
+1238,"86",NA,"BIH","Kulis","passes.f",NA,NA,"free.kick",NA,"ENG","Rose","blocks",NA,NA,NA,NA,NA,NA,NA
+1238,"86",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1239,"86",NA,"ENG","Stokes","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1240,"86",NA,"ENG","Stokes","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1241,"86",NA,"BIH","Lihovic","passes.s",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1242,"86",NA,"BIH","Nikolic","lost.touch",NA,NA,NA,NA,"ENG","Stokes","pressured",NA,NA,NA,NA,NA,NA,NA
+1242,"86",NA,NA,NA,NA,NA,NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,NA,NA,NA,NA
+1243,"86",NA,"ENG","Duggan","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1244,"86",NA,"ENG","Duggan","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1245,"86",NA,"BIH","Seslija","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1246,"86",NA,"BIH","Seslija","passes.f",NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1247,"86",NA,"ENG","Stokes","passes.s",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1248,"86",NA,"ENG","Bassett","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1249,"86",NA,"ENG","Bassett","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1250,"86",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1251,"86",NA,"ENG","J Scott","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1252,"86",NA,"ENG","Rose","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1253,"86",NA,"ENG","Rose","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1254,"86",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1255,"86",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1256,"86",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1257,"87",NA,"ENG","Duggan","passes.f",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1258,"87",NA,"BIH","Kulis","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1259,"87",NA,"BIH","Kulis","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1260,"87",NA,"ENG","Rose","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1261,"87",NA,"ENG","Rose","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1262,"87",NA,"ENG","Davison","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1263,"87",NA,"ENG","Rose","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1264,"87",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1265,"87",NA,"ENG","Stoney","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1266,"87",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1267,"87",NA,"ENG","Stokes","passes.b",NA,NA,NA,NA,"BIH","Dijakovic","pressured",NA,NA,NA,NA,NA,NA,NA
+1268,"87",NA,"ENG","Rose","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1269,"87",NA,"ENG","J Scott","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1270,"87",NA,"ENG","Rose","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1271,"87",NA,"ENG","Stoney","passes.f",NA,NA,"through",NA,NA,NA,NA,NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1272,"88",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1272,"88",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1273,"88",NA,"BIH","Nikolic","aerial.won",NA,NA,NA,NA,"ENG","Davison","aerial.lost",NA,NA,NA,NA,NA,NA,NA
+1274,"88",NA,"ENG","Turner","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1275,"88",NA,"ENG","Turner","clearances",NA,NA,NA,NA,"BIH","Radeljic","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1276,"88",NA,"BIH","Kulis","passes.f",NA,NA,"throw.in",NA,"ENG","Turner","blocks",NA,NA,NA,NA,NA,NA,NA
+1277,"88",NA,"ENG","J Scott","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1278,"88",NA,"ENG","J Scott","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1279,"88",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+1280,"88",NA,"ENG","Stokes","movement",NA,NA,NA,NA,"BIH","Lihovic","pressured",NA,NA,NA,NA,NA,NA,NA
+1281,"88",NA,"ENG","Stokes","lost.touch",NA,NA,NA,NA,"BIH","Lihovic","pressured",NA,NA,NA,NA,NA,NA,NA
+1282,"88",NA,"BIH","Seslija","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1283,"88",NA,"BIH","Seslija","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1284,"88",NA,"ENG","Stokes","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1285,"88",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+1286,"89",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1287,"89",NA,"ENG","Duggan","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1288,"89",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1289,"89",NA,"ENG","Rose","shots.missed",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1289,"89",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Hodzic","gk.shot.miss",NA,NA,NA,NA,NA,NA,NA
+1290,"89",NA,"BIH","Hodzic","passes.f",NA,NA,"goal.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1290,"89",NA,NA,NA,NA,NA,NA,"launch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1291,"89",NA,"BIH","Kulis","aerial.lost",NA,NA,NA,NA,"ENG","Davison","aerial.won",NA,NA,NA,NA,NA,NA,NA
+1292,"89",NA,"ENG","Stokes","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1293,"89",NA,"ENG","Stokes","passes.f",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1294,"89",NA,"BIH","Aleksic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1295,"89",NA,"BIH","Aleksic","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1296,"89",NA,"BIH","Nikolic","passes.f",NA,NA,NA,NA,"ENG","Bassett","pressured",NA,NA,NA,"fouls.conceded",NA,"fouls.won",NA
+1297,"89",NA,"ENG","Nobbs","passes.s",NA,NA,"free.kick",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1298,"89",NA,"ENG","Stoney","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1299,"89",NA,"ENG","J Scott","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1300,"89",NA,"ENG","Aluko","passes.b",NA,NA,"lay.off",NA,"BIH","M Hasanbegovic","challenged",NA,NA,NA,NA,NA,NA,NA
+1301,"89",NA,"ENG","J Scott","lost.touch",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1302,"89",NA,"BIH","Amira Spahic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1303,"89",NA,"BIH","Amira Spahic","clearances",NA,NA,NA,NA,"ENG","J Scott","pressured",NA,NA,NA,NA,NA,NA,NA
+1304,"89",NA,"ENG","Rose","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1305,"89",NA,"ENG","Nobbs","passes.b",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+1306,"89",NA,"ENG","Rose","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1307,"90",NA,"ENG","Bassett","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1308,"90",NA,"ENG","Duggan","passes.b",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+1309,"90",NA,"ENG","Bassett","passes.s",NA,NA,NA,NA,"BIH","Alisa Spahic","pressured",NA,NA,NA,NA,NA,NA,NA
+1310,"90",NA,"ENG","Rose","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1311,"90",NA,"ENG","Davison","passes.f",NA,NA,"flick.on",NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+1312,"90",NA,"ENG","Nobbs","passes.s",NA,NA,"lay.off",NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+1313,"90",NA,"ENG","Davison","passes.f",NA,NA,NA,NA,"BIH","Kulis","pressured",NA,NA,NA,NA,NA,NA,NA
+1313,"90",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","Aleksic","pressured",NA,NA,NA,NA,NA,NA,NA
+1314,"90",NA,"ENG","Nobbs","passes.f",NA,NA,"through",NA,"BIH","Amira Spahic","blocks",NA,NA,NA,NA,NA,NA,NA
+1315,"90",NA,"BIH","Hadzic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1316,"90",NA,"BIH","Hadzic","movement",NA,NA,NA,NA,"ENG","J Scott","pressured",NA,NA,NA,NA,NA,NA,NA
+1317,"90",NA,"BIH","Hadzic","movement",NA,NA,NA,NA,"ENG","J Scott","pressured",NA,NA,NA,NA,NA,NA,NA
+1318,"90",NA,"BIH","Hadzic","passes.f",NA,NA,NA,NA,"ENG","J Scott","blocks",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+1319,"90",NA,"BIH","Kulis","passes.f",NA,NA,"throw.in",NA,"ENG","Davison","blocks",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+1320,"91",NA,"BIH","Alisa Spahic","substitution.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1321,"91",NA,"BIH","Piskic","substitution.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1322,"91",NA,"BIH","Kulis","passes.f",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1323,"91",NA,"BIH","Aleksic","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1324,"91",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1325,"92",NA,"ENG","Stoney","passes.b",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1326,"92",NA,"ENG","Bardsley","clearances",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1327,"92",NA,"ENG","Nobbs","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1328,"92",NA,"ENG","Nobbs","lost.touch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1329,"92",NA,"BIH","Piskic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1330,"92",NA,"BIH","Piskic","movement",NA,NA,NA,NA,"ENG","Nobbs","pressured",NA,NA,NA,NA,NA,NA,NA
+1331,"92",NA,"BIH","Piskic","passes.s",NA,NA,NA,NA,"ENG","Nobbs","pressured",NA,NA,NA,NA,NA,NA,NA
+1332,"92",NA,"BIH","Lihovic","dispossessed",NA,NA,NA,NA,"ENG","Duggan","tackles.ball",NA,NA,NA,NA,"out.of.bounds.keep.poss",NA,NA
+1333,"92",NA,"BIH","Seslija","passes.f",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1334,"92",NA,"BIH","Nikolic","passes.b",NA,NA,"headed",NA,"ENG","Duggan","pressured",NA,NA,NA,NA,NA,NA,NA
+1335,"92",NA,"BIH","Seslija","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1336,"92",NA,"BIH","Seslija","lost.touch",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1337,"92",NA,"ENG","Duggan","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1338,"92",NA,"ENG","Duggan","movement",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1339,"92",NA,"ENG","Duggan","passes.s",NA,NA,NA,NA,"BIH","Piskic","pressured",NA,NA,NA,NA,NA,NA,NA
+1340,"92",NA,"ENG","Nobbs","passes.f",NA,NA,NA,NA,"BIH","Hadzic","pressured",NA,NA,NA,NA,NA,NA,NA
+1340,"92",NA,NA,NA,NA,NA,NA,NA,NA,"BIH","M Hasanbegovic","blocks",NA,NA,NA,NA,NA,NA,NA
+1341,"92",NA,"BIH","Seslija","dispossessed",NA,NA,NA,NA,"ENG","Stokes","challenged",NA,NA,NA,"fouls.won",NA,"fouls.conceded",NA
+1342,"93",NA,"BIH","Amira Spahic","passes.f",NA,NA,"free.kick",NA,"ENG","Bassett","blocks",NA,NA,NA,NA,NA,NA,NA
+1343,"93",NA,"ENG","Aluko","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1344,"93",NA,"ENG","Aluko","lost.touch",NA,NA,NA,NA,"BIH","Seslija","challenged",NA,NA,NA,NA,NA,NA,NA
+1345,"93",NA,"BIH","Kulis","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1346,"93",NA,"BIH","Kulis","passes.f",NA,NA,NA,NA,"ENG","Nobbs","challenged",NA,NA,NA,NA,NA,NA,NA
+1347,"93",NA,"ENG","Stoney","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1348,"93",NA,"ENG","Stoney","passes.s",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1349,"93",NA,"BIH","Hodzic","passes.f",NA,NA,NA,NA,"BIH","Nikolic","pressured",NA,NA,NA,NA,NA,NA,NA
+1350,"93",NA,"ENG","Turner","passes.f",NA,NA,NA,NA,"BIH","Radeljic","challenged",NA,NA,NA,NA,"out.of.bounds.lost.poss",NA,NA
+1351,"93",NA,"BIH","Radeljic","substitution.off",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1352,"94",NA,"BIH","Stantic","substitution.on",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1353,"94",NA,"BIH","Kulis","passes.f",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1354,"94",NA,"BIH","Stantic","aerial.lost",NA,NA,NA,NA,"ENG","Davison","aerial.won",NA,NA,NA,NA,NA,NA,NA
+1355,"94",NA,"ENG","J Scott","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1356,"94",NA,"ENG","J Scott","passes.f",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1357,"94",NA,"BIH","Aleksic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1358,"94",NA,"BIH","Aleksic","passes.f",NA,NA,"headed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1359,"94",NA,"BIH","Nikolic","aerial.lost",NA,NA,NA,NA,"ENG","Turner","aerial.won",NA,NA,NA,NA,NA,NA,NA
+1360,"94",NA,"ENG","Nobbs","passes.s",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1361,"94",NA,"ENG","Stokes","passes.s",NA,NA,NA,NA,"BIH","Lihovic","pressured",NA,NA,NA,NA,NA,NA,NA
+1362,"94",NA,"ENG","Duggan","lost.touch",NA,NA,NA,NA,"BIH","Seslija","pressured",NA,NA,NA,NA,NA,NA,NA
+1363,"94",NA,"BIH","Piskic","recoveries",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1364,"94",NA,"BIH","Piskic","clearances",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1365,"95",NA,"ENG","Stokes","passes.b",NA,NA,"throw.in",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,"95",NA,NA,NA,"end.of.match",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
